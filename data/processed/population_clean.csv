@@ -1,0 +1,2458 @@
+state_code,state_name,sa2_code,sa2_name,pop_2022
+1,New South Wales,101021007,Braidwood,4364
+1,New South Wales,101021008,Karabar,8535
+1,New South Wales,101021009,Queanbeyan,11376
+1,New South Wales,101021010,Queanbeyan - East,5093
+1,New South Wales,101021012,Queanbeyan West - Jerrabomberra,12775
+1,New South Wales,101021610,Googong,6723
+1,New South Wales,101021611,Queanbeyan Surrounds,16841
+1,New South Wales,101031013,Bombala,2463
+1,New South Wales,101031014,Cooma,6663
+1,New South Wales,101031015,Cooma Surrounds,3503
+1,New South Wales,101031016,Jindabyne - Berridale,8199
+1,New South Wales,101041017,Batemans Bay,8635
+1,New South Wales,101041018,Batemans Bay - South,8953
+1,New South Wales,101041019,Bega - Tathra,8869
+1,New South Wales,101041020,Bega-Eden Hinterland,9623
+1,New South Wales,101041021,Broulee - Tomakin,3823
+1,New South Wales,101041022,Deua - Wadbilliga,41
+1,New South Wales,101041023,Eden,3410
+1,New South Wales,101041024,Eurobodalla Hinterland,3562
+1,New South Wales,101041025,Merimbula - Tura Beach,11495
+1,New South Wales,101041026,Moruya - Tuross Head,8577
+1,New South Wales,101041027,Narooma - Bermagui,9914
+1,New South Wales,101051539,Goulburn,24829
+1,New South Wales,101051540,Goulburn Surrounds,13935
+1,New South Wales,101061541,Yass,6782
+1,New South Wales,101061542,Yass Surrounds,12782
+1,New South Wales,101061543,Young,10987
+1,New South Wales,101061544,Young Surrounds,7671
+1,New South Wales,102011028,Avoca Beach - Copacabana,7477
+1,New South Wales,102011029,Box Head - MacMasters Beach,11051
+1,New South Wales,102011030,Calga - Kulnura,4691
+1,New South Wales,102011031,Erina - Green Point,14648
+1,New South Wales,102011032,Gosford - Springfield,21682
+1,New South Wales,102011033,Kariong,6409
+1,New South Wales,102011034,Kincumber - Picketts Valley,7527
+1,New South Wales,102011035,Narara,7269
+1,New South Wales,102011036,Niagara Park - Lisarow,8193
+1,New South Wales,102011037,Point Clare - Koolewong,6606
+1,New South Wales,102011038,Saratoga - Davistown,7204
+1,New South Wales,102011039,Terrigal - North Avoca,14897
+1,New South Wales,102011040,Umina - Booker Bay - Patonga,24830
+1,New South Wales,102011041,Wamberal - Forresters Beach,10671
+1,New South Wales,102011042,Woy Woy - Blackwall,14271
+1,New South Wales,102011043,Wyoming,11339
+1,New South Wales,102021044,Bateau Bay - Killarney Vale,22894
+1,New South Wales,102021045,Blue Haven - San Remo,11459
+1,New South Wales,102021046,Budgewoi - Buff Point - Halekulani,9868
+1,New South Wales,102021047,Chittaway Bay - Tumbi Umbi,16182
+1,New South Wales,102021048,Gorokan - Kanwal - Charmhaven,22575
+1,New South Wales,102021049,Jilliby - Yarramalong,3449
+1,New South Wales,102021050,Lake Munmorah - Mannering Park,11030
+1,New South Wales,102021051,Ourimbah - Fountaindale,4909
+1,New South Wales,102021052,Summerland Point - Gwandalan,6629
+1,New South Wales,102021053,The Entrance,15814
+1,New South Wales,102021054,Toukley - Norah Head,9897
+1,New South Wales,102021055,Tuggerah - Kangy Angy,5237
+1,New South Wales,102021056,Warnervale - Wadalba,20950
+1,New South Wales,102021057,Wyong,9272
+1,New South Wales,103011059,Bathurst - East,12665
+1,New South Wales,103011060,Bathurst Surrounds,6939
+1,New South Wales,103011061,Oberon,4845
+1,New South Wales,103011612,Bathurst - South,10710
+1,New South Wales,103011613,Bathurst - West,14481
+1,New South Wales,103021062,Condobolin,6390
+1,New South Wales,103021063,Cowra,9239
+1,New South Wales,103021064,Cowra Surrounds,5724
+1,New South Wales,103021065,Forbes,10034
+1,New South Wales,103021066,Grenfell,3590
+1,New South Wales,103021067,Parkes (NSW),10961
+1,New South Wales,103021068,Parkes Surrounds,3199
+1,New South Wales,103021069,West Wyalong,5456
+1,New South Wales,103031070,Lithgow,12367
+1,New South Wales,103031071,Lithgow Surrounds,8438
+1,New South Wales,103031072,Mudgee,12559
+1,New South Wales,103031073,Mudgee Surrounds - East,3357
+1,New South Wales,103031074,Mudgee Surrounds - West,11159
+1,New South Wales,103031075,Wollangambe - Wollemi,0
+1,New South Wales,103041076,Blayney,7606
+1,New South Wales,103041077,Orange,19125
+1,New South Wales,103041078,Orange - North,23226
+1,New South Wales,103041079,Orange Surrounds,11857
+1,New South Wales,104011080,Grafton,19431
+1,New South Wales,104011081,Grafton Surrounds,17107
+1,New South Wales,104011082,Maclean - Yamba - Iluka,17575
+1,New South Wales,104021083,Bellingen,6154
+1,New South Wales,104021084,Coffs Harbour - North,18342
+1,New South Wales,104021085,Coffs Harbour - South,11349
+1,New South Wales,104021086,Coramba - Nana Glen - Bucca,3971
+1,New South Wales,104021087,Dorrigo,3228
+1,New South Wales,104021088,Korora - Emerald Beach,10412
+1,New South Wales,104021089,Sawtell - Boambee,20194
+1,New South Wales,104021090,Urunga,4915
+1,New South Wales,104021091,Woolgoolga - Arrawarra,14719
+1,New South Wales,105011092,Bourke - Brewarrina,3508
+1,New South Wales,105011093,Cobar,4119
+1,New South Wales,105011094,Coonamble,4022
+1,New South Wales,105011095,Nyngan - Warren,4594
+1,New South Wales,105011096,Walgett - Lightning Ridge,5807
+1,New South Wales,105021097,Broken Hill,17567
+1,New South Wales,105021098,Far West,2289
+1,New South Wales,105031099,Coonabarabran,7952
+1,New South Wales,105031100,Dubbo - East,10802
+1,New South Wales,105031101,Dubbo - South,19965
+1,New South Wales,105031102,Dubbo - West,10532
+1,New South Wales,105031103,Dubbo Surrounds,6012
+1,New South Wales,105031104,Gilgandra,4411
+1,New South Wales,105031105,Narromine,6530
+1,New South Wales,105031106,Wellington,8938
+1,New South Wales,106011107,Branxton - Greta - Pokolbin,13500
+1,New South Wales,106011108,Cessnock,23829
+1,New South Wales,106011109,Cessnock Surrounds,9347
+1,New South Wales,106011110,Dungog,9707
+1,New South Wales,106011111,Kurri Kurri - Abermain,21552
+1,New South Wales,106011112,Singleton,17415
+1,New South Wales,106011113,Singleton Surrounds,5390
+1,New South Wales,106021114,Maitland,9130
+1,New South Wales,106021116,Maitland - North,8937
+1,New South Wales,106021614,East Maitland - Metford,18121
+1,New South Wales,106021615,Rutherford (North) - Aberglasslyn,18367
+1,New South Wales,106021616,Rutherford (South) - Telarah,8383
+1,New South Wales,106021617,Tenambit - East Maitland,10281
+1,New South Wales,106021618,Thornton - Millers Forest,17020
+1,New South Wales,106031119,Anna Bay,6580
+1,New South Wales,106031120,Lemon Tree Passage - Tanilba Bay,6927
+1,New South Wales,106031121,Nelson Bay Peninsula,21935
+1,New South Wales,106031122,Raymond Terrace,14902
+1,New South Wales,106031123,Seaham - Woodville,5733
+1,New South Wales,106031124,Tea Gardens - Hawks Nest,5780
+1,New South Wales,106031125,Williamtown - Medowie - Karuah,15532
+1,New South Wales,106041126,Muswellbrook,12405
+1,New South Wales,106041127,Muswellbrook Surrounds,4111
+1,New South Wales,106041128,Scone,6037
+1,New South Wales,106041129,Scone Surrounds,8253
+1,New South Wales,107011131,Dapto - Avondale,24442
+1,New South Wales,107011132,Horsley - Kembla Grange,12974
+1,New South Wales,107011133,Port Kembla Industrial,7
+1,New South Wales,107011134,Unanderra - Mount Kembla,15231
+1,New South Wales,107011545,Berkeley - Lake Heights - Cringila,14126
+1,New South Wales,107011546,Port Kembla - Warrawong,9639
+1,New South Wales,107011547,Windang - Primbee,4183
+1,New South Wales,107021135,Illawarra Catchment Reserve,5
+1,New South Wales,107031136,Albion Park - Macquarie Pass,20606
+1,New South Wales,107031137,Albion Park Rail,6872
+1,New South Wales,107031138,Kiama,8831
+1,New South Wales,107031139,Kiama Downs - Minnamurra,5957
+1,New South Wales,107031140,Kiama Hinterland - Gerringong,8046
+1,New South Wales,107031141,Shellharbour - Flinders,19796
+1,New South Wales,107031142,Shellharbour - Oak Flats,10637
+1,New South Wales,107031143,Warilla,20345
+1,New South Wales,107041144,Balgownie - Fairy Meadow,21570
+1,New South Wales,107041145,Corrimal - Tarrawanna - Bellambi,16093
+1,New South Wales,107041146,Figtree - Keiraville,23018
+1,New South Wales,107041147,Helensburgh,9084
+1,New South Wales,107041148,Thirroul - Austinmer - Coalcliff,11926
+1,New South Wales,107041150,Woonona - Bulli - Russell Vale,20621
+1,New South Wales,107041548,Wollongong - East,16648
+1,New South Wales,107041549,Wollongong - West,16739
+1,New South Wales,108011151,Bulahdelah - Stroud,5276
+1,New South Wales,108011152,Forster,14636
+1,New South Wales,108011153,Forster-Tuncurry Surrounds,7052
+1,New South Wales,108011154,Tuncurry,6340
+1,New South Wales,108021155,Kempsey,16013
+1,New South Wales,108021156,Kempsey Surrounds,9497
+1,New South Wales,108021157,Macksville - Scotts Head,5262
+1,New South Wales,108021158,Nambucca Heads,7147
+1,New South Wales,108021159,Nambucca Heads Surrounds,8162
+1,New South Wales,108021160,South West Rocks,5673
+1,New South Wales,108031161,Lord Howe Island,450
+1,New South Wales,108041162,Laurieton - Bonny Hills,18633
+1,New South Wales,108041164,Port Macquarie - West,21995
+1,New South Wales,108041165,Port Macquarie Surrounds,5307
+1,New South Wales,108041166,Wauchope,13071
+1,New South Wales,108041619,Port Macquarie - East,11844
+1,New South Wales,108041620,Port Macquarie - South,17315
+1,New South Wales,108051167,Gloucester,5297
+1,New South Wales,108051168,Old Bar - Manning Point - Red Head,12689
+1,New South Wales,108051169,Taree,21294
+1,New South Wales,108051170,Taree Surrounds,13214
+1,New South Wales,108051171,Wingham,5372
+1,New South Wales,109011172,Albury - East,18442
+1,New South Wales,109011173,Albury - North,10500
+1,New South Wales,109011174,Albury - South,10436
+1,New South Wales,109011175,Albury Surrounds,12682
+1,New South Wales,109011176,Lavington,15594
+1,New South Wales,109021177,Hay,2846
+1,New South Wales,109021178,Wentworth - Buronga,6621
+1,New South Wales,109021179,Wentworth-Balranald Region,3629
+1,New South Wales,109031180,Corowa,5528
+1,New South Wales,109031181,Corowa Surrounds,7287
+1,New South Wales,109031182,Deniliquin,7031
+1,New South Wales,109031183,Deniliquin Surrounds,6818
+1,New South Wales,109031184,Moama,7115
+1,New South Wales,109031185,Tocumwal - Finley - Jerilderie,9828
+1,New South Wales,110011186,Armidale,24155
+1,New South Wales,110011187,Armidale Surrounds - North,4539
+1,New South Wales,110011188,Armidale Surrounds - South,5902
+1,New South Wales,110011189,Walcha,3136
+1,New South Wales,110021190,Glen Innes,8935
+1,New South Wales,110021191,Inverell,12140
+1,New South Wales,110021192,Inverell Surrounds - East,5216
+1,New South Wales,110021193,Inverell Surrounds - West,5728
+1,New South Wales,110021194,Tenterfield,6877
+1,New South Wales,110031195,Moree,7995
+1,New South Wales,110031196,Moree Surrounds,5304
+1,New South Wales,110031197,Narrabri,6890
+1,New South Wales,110031198,Narrabri Surrounds,4634
+1,New South Wales,110041199,Gunnedah,9890
+1,New South Wales,110041200,Gunnedah Surrounds,4403
+1,New South Wales,110041201,Quirindi,7655
+1,New South Wales,110041202,Tamworth - East,22018
+1,New South Wales,110041203,Tamworth - North,16695
+1,New South Wales,110041204,Tamworth - West,6234
+1,New South Wales,110041205,Tamworth Surrounds,19336
+1,New South Wales,111011206,Belmont - Bennetts Green,17760
+1,New South Wales,111011207,Belmont South - Blacksmiths,5665
+1,New South Wales,111011208,Charlestown - Dudley,25489
+1,New South Wales,111011209,Glendale - Cardiff - Hillsborough,24945
+1,New South Wales,111011210,Mount Hutton - Windale,9584
+1,New South Wales,111011211,Redhead,3774
+1,New South Wales,111011212,Swansea - Caves Beach,12678
+1,New South Wales,111011213,Valentine - Eleebana,12452
+1,New South Wales,111011214,Warners Bay - Boolaroo,14881
+1,New South Wales,111021215,Bolton Point - Teralba,10361
+1,New South Wales,111021216,Bonnells Bay - Silverwater,9919
+1,New South Wales,111021217,Edgeworth - Cameron Park,16986
+1,New South Wales,111021218,Morisset - Cooranbong,18667
+1,New South Wales,111021219,Toronto - Awaba,14085
+1,New South Wales,111021220,Wangi Wangi - Rathmines,9494
+1,New South Wales,111021221,West Wallsend - Barnsley - Killingworth,7326
+1,New South Wales,111031222,Adamstown - Kotara,16802
+1,New South Wales,111031223,Beresfield - Hexham,8646
+1,New South Wales,111031224,Hamilton - Broadmeadow,12828
+1,New South Wales,111031225,Lambton - New Lambton,17378
+1,New South Wales,111031226,Maryland - Fletcher - Minmi,16933
+1,New South Wales,111031227,Mayfield - Warabrook,15666
+1,New South Wales,111031228,Merewether - The Junction,14596
+1,New South Wales,111031229,Newcastle - Cooks Hill,13264
+1,New South Wales,111031230,Newcastle Port - Kooragang,28
+1,New South Wales,111031231,Shortland - Jesmond,12960
+1,New South Wales,111031232,Stockton - Fullerton Cove,9112
+1,New South Wales,111031233,Wallsend - Elermore Vale,21120
+1,New South Wales,111031234,Waratah - North Lambton,12980
+1,New South Wales,111031235,Wickham - Carrington - Tighes Hill,9496
+1,New South Wales,112011236,Ballina,18706
+1,New South Wales,112011237,Ballina Surrounds,18577
+1,New South Wales,112011238,Bangalow,7111
+1,New South Wales,112011239,Brunswick Heads - Ocean Shores,9253
+1,New South Wales,112011240,Byron Bay,10869
+1,New South Wales,112011241,Evans Head,5700
+1,New South Wales,112011242,Lennox Head - Skennars Head,9368
+1,New South Wales,112011243,Mullumbimby,8988
+1,New South Wales,112021244,Casino,12323
+1,New South Wales,112021245,Casino Surrounds,7441
+1,New South Wales,112021246,Goonellabah,13758
+1,New South Wales,112021247,Kyogle,7644
+1,New South Wales,112021248,Lismore,14875
+1,New South Wales,112021249,Lismore Surrounds,15836
+1,New South Wales,112031250,Kingscliff - Fingal Head,14850
+1,New South Wales,112031251,Murwillumbah,9453
+1,New South Wales,112031252,Murwillumbah Surrounds,10446
+1,New South Wales,112031253,Pottsville,14218
+1,New South Wales,112031254,Tweed Heads,20695
+1,New South Wales,112031550,Banora Point,16328
+1,New South Wales,112031551,Terranora - North Tumbulgum,3333
+1,New South Wales,112031552,Tweed Heads South,8395
+1,New South Wales,113011256,Griffith (NSW),20510
+1,New South Wales,113011257,Griffith Surrounds,12820
+1,New South Wales,113011258,Leeton,10320
+1,New South Wales,113011259,Narrandera,5897
+1,New South Wales,113021260,Tumbarumba,3507
+1,New South Wales,113021261,Tumut,6667
+1,New South Wales,113021262,Tumut Surrounds,4745
+1,New South Wales,113031263,Cootamundra,7707
+1,New South Wales,113031264,Gundagai,3705
+1,New South Wales,113031265,Junee,6382
+1,New South Wales,113031266,Temora,6568
+1,New South Wales,113031267,Wagga Wagga - East,16919
+1,New South Wales,113031268,Wagga Wagga - North,5774
+1,New South Wales,113031269,Wagga Wagga - South,22879
+1,New South Wales,113031270,Wagga Wagga - West,11796
+1,New South Wales,113031271,Wagga Wagga Surrounds,18157
+1,New South Wales,114011272,Berry - Kangaroo Valley,9360
+1,New South Wales,114011273,Callala Bay - Currarong,3589
+1,New South Wales,114011274,Culburra Beach,5049
+1,New South Wales,114011275,Ettrema - Sassafras - Budawang,62
+1,New South Wales,114011276,Huskisson - Vincentia,4901
+1,New South Wales,114011277,North Nowra - Bomaderry,16216
+1,New South Wales,114011278,Nowra,23202
+1,New South Wales,114011279,St Georges Basin - Erowal Bay,15391
+1,New South Wales,114011280,Sussex Inlet - Berrara,4684
+1,New South Wales,114011281,Tomerong - Wandandian - Woollamia,3736
+1,New South Wales,114011282,Ulladulla,17196
+1,New South Wales,114011283,Ulladulla Surrounds,5836
+1,New South Wales,114021284,Bowral,13500
+1,New South Wales,114021285,Hill Top - Colo Vale,6460
+1,New South Wales,114021286,Mittagong,10995
+1,New South Wales,114021287,Moss Vale - Berrima,10744
+1,New South Wales,114021288,Robertson - Fitzroy Falls,3837
+1,New South Wales,114021289,Southern Highlands,7201
+1,New South Wales,115011290,Baulkham Hills - East,24719
+1,New South Wales,115011291,Baulkham Hills (West) - Bella Vista,22113
+1,New South Wales,115011294,Glenhaven,6321
+1,New South Wales,115011296,West Pennant Hills,12383
+1,New South Wales,115011553,Castle Hill - Central,7577
+1,New South Wales,115011554,Castle Hill - East,5447
+1,New South Wales,115011555,Castle Hill - North,12244
+1,New South Wales,115011556,Castle Hill - South,10386
+1,New South Wales,115011557,Castle Hill - West,5177
+1,New South Wales,115011558,Cherrybrook,18818
+1,New South Wales,115011621,Kellyville - East,17565
+1,New South Wales,115011622,Kellyville - West,12474
+1,New South Wales,115021297,Dural - Kenthurst - Wisemans Ferry,22527
+1,New South Wales,115021298,Galston - Laughtondale,5453
+1,New South Wales,115031299,Bilpin - Colo - St Albans,2800
+1,New South Wales,115031300,Kurrajong Heights - Ebenezer,22325
+1,New South Wales,115041301,Pitt Town - McGraths Hill,11676
+1,New South Wales,115041623,Box Hill - Nelson,14508
+1,New South Wales,115041624,North Kellyville,19029
+1,New South Wales,115041625,Rouse Hill - Beaumont Hills,17666
+1,New South Wales,116011303,Blacktown (East) - Kings Park,17216
+1,New South Wales,116011304,Blacktown (North) - Marayong,20794
+1,New South Wales,116011306,Doonside - Woodcroft,23446
+1,New South Wales,116011307,Lalor Park - Kings Langley,25531
+1,New South Wales,116011560,Blacktown - South,12650
+1,New South Wales,116011561,Blacktown - West,17278
+1,New South Wales,116011626,Seven Hills - Prospect,14856
+1,New South Wales,116011627,Toongabbie - West,11690
+1,New South Wales,116021309,Glenwood,15778
+1,New South Wales,116021562,Acacia Gardens,3606
+1,New South Wales,116021563,Quakers Hill,25024
+1,New South Wales,116021628,Kellyville Ridge - The Ponds,21257
+1,New South Wales,116021629,Marsden Park - Shanes Park,19846
+1,New South Wales,116021630,Riverstone,15447
+1,New South Wales,116021631,Schofields (West) - Colebee,11423
+1,New South Wales,116021632,Schofields - East,29624
+1,New South Wales,116021633,Stanhope Gardens - Parklea,13079
+1,New South Wales,116031313,Bidwill - Hebersham - Emerton,18530
+1,New South Wales,116031314,Glendenning - Dean Park,8388
+1,New South Wales,116031315,Hassall Grove - Plumpton,21323
+1,New South Wales,116031316,Lethbridge Park - Tregear,21919
+1,New South Wales,116031317,Mount Druitt - Whalan,23180
+1,New South Wales,116031318,Prospect Reservoir,16
+1,New South Wales,116031319,Rooty Hill - Minchinbury,22824
+1,New South Wales,117011320,Banksmeadow,584
+1,New South Wales,117011321,Botany,13240
+1,New South Wales,117011323,Pagewood - Hillsdale - Daceyville,15370
+1,New South Wales,117011324,Port Botany Industrial,9
+1,New South Wales,117011325,Sydney Airport,23
+1,New South Wales,117011634,Eastlakes,8816
+1,New South Wales,117011635,Mascot,22721
+1,New South Wales,117021327,Petersham - Stanmore,19964
+1,New South Wales,117021328,Sydenham - Tempe - St Peters,8383
+1,New South Wales,117021636,Marrickville - North,12307
+1,New South Wales,117021637,Marrickville - South,14170
+1,New South Wales,117031329,Darlinghurst,10594
+1,New South Wales,117031330,Erskineville - Alexandria,19941
+1,New South Wales,117031331,Glebe - Forest Lodge,20596
+1,New South Wales,117031333,Potts Point - Woolloomooloo,18258
+1,New South Wales,117031336,Surry Hills,15951
+1,New South Wales,117031638,Camperdown - Darlington,8435
+1,New South Wales,117031639,Chippendale,8183
+1,New South Wales,117031640,Newtown (NSW),14856
+1,New South Wales,117031641,Pyrmont,13001
+1,New South Wales,117031642,Redfern,14107
+1,New South Wales,117031643,Rosebery - Beaconsfield,12913
+1,New South Wales,117031644,Sydney (North) - Millers Point,8165
+1,New South Wales,117031645,Sydney (South) - Haymarket,21040
+1,New South Wales,117031646,Ultimo,7804
+1,New South Wales,117031647,Waterloo,17001
+1,New South Wales,117031648,Zetland,13297
+1,New South Wales,118011339,Bondi - Tamarama - Bronte,19232
+1,New South Wales,118011340,Bondi Beach - North Bondi,21050
+1,New South Wales,118011341,Bondi Junction - Waverly,17837
+1,New South Wales,118011342,Centennial Park,0
+1,New South Wales,118011344,Dover Heights,11099
+1,New South Wales,118011345,Paddington - Moore Park,14781
+1,New South Wales,118011346,Rose Bay - Vaucluse - Watsons Bay,11848
+1,New South Wales,118011347,Woollahra,7463
+1,New South Wales,118011649,Bellevue Hill,14425
+1,New South Wales,118011650,Double Bay - Darling Point,9971
+1,New South Wales,118021564,Kensington (NSW),12378
+1,New South Wales,118021565,Kingsford,14269
+1,New South Wales,118021566,Maroubra - North,9965
+1,New South Wales,118021567,Maroubra - South,11163
+1,New South Wales,118021568,Maroubra - West,10003
+1,New South Wales,118021569,Randwick - North,16155
+1,New South Wales,118021570,Randwick - South,12762
+1,New South Wales,118021651,Coogee - Clovelly,19392
+1,New South Wales,118021652,Malabar - La Perouse,10596
+1,New South Wales,118021653,Matraville - Chifley,13411
+1,New South Wales,118021654,South Coogee,5639
+1,New South Wales,119011354,Bass Hill - Georges Hall,24024
+1,New South Wales,119011355,Chullora,1446
+1,New South Wales,119011356,Condell Park,12885
+1,New South Wales,119011358,Padstow,17068
+1,New South Wales,119011360,Revesby,17886
+1,New South Wales,119011361,Yagoona - Birrong,22611
+1,New South Wales,119011571,Bankstown - North,17136
+1,New South Wales,119011572,Bankstown - South,18579
+1,New South Wales,119011655,Greenacre - North,14735
+1,New South Wales,119011656,Greenacre - South,13299
+1,New South Wales,119011657,Panania (North) - Milperra,11338
+1,New South Wales,119011658,Panania (South) - Picnic Point,16050
+1,New South Wales,119021362,Belmore - Belfield,20486
+1,New South Wales,119021366,Punchbowl,21516
+1,New South Wales,119021367,Roselands,14635
+1,New South Wales,119021573,Lakemba,16876
+1,New South Wales,119021574,Wiley Park,10047
+1,New South Wales,119021659,Campsie - North,11785
+1,New South Wales,119021660,Campsie - South,8979
+1,New South Wales,119021661,Canterbury - South,12514
+1,New South Wales,119021662,Earlwood,17891
+1,New South Wales,119021663,Kingsgrove - North,6219
+1,New South Wales,119031370,Narwee - Beverly Hills,13661
+1,New South Wales,119031371,Oatley - Hurstville Grove,12509
+1,New South Wales,119031372,Peakhurst - Lugarno,20308
+1,New South Wales,119031373,Riverwood,11550
+1,New South Wales,119031374,South Hurstville - Blakehurst,25581
+1,New South Wales,119031664,Hurstville - Central,12337
+1,New South Wales,119031665,Hurstville - North,11954
+1,New South Wales,119031666,Mortdale - Oatley,14767
+1,New South Wales,119031667,Penshurst,9500
+1,New South Wales,119041377,Kingsgrove (South) - Bardwell Park,12917
+1,New South Wales,119041378,Kogarah,13434
+1,New South Wales,119041379,Kogarah Bay - Carlton - Allawah,16349
+1,New South Wales,119041380,Monterey - Brighton-le-Sands - Kyeemagh,13635
+1,New South Wales,119041381,Rockdale - Banksia,20167
+1,New South Wales,119041382,Sans Souci - Ramsgate,16508
+1,New South Wales,119041668,Arncliffe - Bardwell Valley,16721
+1,New South Wales,119041669,Bexley - North,9994
+1,New South Wales,119041670,Bexley - South,15698
+1,New South Wales,119041671,Wolli Creek,11348
+1,New South Wales,120011383,Concord - Mortlake - Cabarita,23152
+1,New South Wales,120011385,Drummoyne - Rodd Point,18218
+1,New South Wales,120011386,Five Dock - Abbotsford,20827
+1,New South Wales,120011672,Concord West - North Strathfield,12761
+1,New South Wales,120011673,Rhodes,11686
+1,New South Wales,120021387,Balmain,15437
+1,New South Wales,120021389,Lilyfield - Rozelle,13619
+1,New South Wales,120021674,Annandale (NSW),9514
+1,New South Wales,120021675,Leichhardt,17657
+1,New South Wales,120031392,Canterbury (North) - Ashbury,12090
+1,New South Wales,120031393,Croydon Park - Enfield,17414
+1,New South Wales,120031394,Dulwich Hill - Lewisham,18081
+1,New South Wales,120031395,Haberfield - Summer Hill,13502
+1,New South Wales,120031396,Homebush,21336
+1,New South Wales,120031576,Strathfield South,3591
+1,New South Wales,120031676,Ashfield - North,11418
+1,New South Wales,120031677,Ashfield - South,12190
+1,New South Wales,120031678,Burwood (NSW),16478
+1,New South Wales,120031679,Croydon,10920
+1,New South Wales,120031680,Strathfield - East,16556
+1,New South Wales,120031681,Strathfield - West,9215
+1,New South Wales,121011399,Chatswood (West) - Lane Cove North,21600
+1,New South Wales,121011401,St Leonards - Naremburn,12207
+1,New South Wales,121011682,Artarmon,9397
+1,New South Wales,121011683,Castle Cove - Northbridge,13320
+1,New South Wales,121011684,Chatswood - East,19701
+1,New South Wales,121011685,Greenwich - Riverview,12826
+1,New South Wales,121011686,Lane Cove,16046
+1,New South Wales,121011687,Willoughby,12854
+1,New South Wales,121021403,Asquith - Mount Colah,22353
+1,New South Wales,121021404,Berowra - Brooklyn - Cowan,11749
+1,New South Wales,121021406,Normanhurst - Thornleigh - Westleigh,19200
+1,New South Wales,121021577,Hornsby - East,11925
+1,New South Wales,121021578,Hornsby - West,10604
+1,New South Wales,121021579,Wahroonga (West) - Waitara,11978
+1,New South Wales,121031407,Gordon - Killara,22422
+1,New South Wales,121031408,Lindfield - Roseville,24643
+1,New South Wales,121031409,Pymble,17254
+1,New South Wales,121031410,St Ives,21779
+1,New South Wales,121031411,Turramurra,20160
+1,New South Wales,121031412,Wahroonga (East) - Warrawee,18142
+1,New South Wales,121041413,Cremorne - Cammeray,18915
+1,New South Wales,121041414,Crows Nest - Waverton,17924
+1,New South Wales,121041416,Neutral Bay - Kirribilli,17202
+1,New South Wales,121041417,North Sydney - Lavender Bay,12617
+1,New South Wales,121041688,Mosman - North,13727
+1,New South Wales,121041689,Mosman - South,14373
+1,New South Wales,122011418,Balgowlah - Clontarf - Seaforth,20537
+1,New South Wales,122011419,Manly - Fairlight,22748
+1,New South Wales,122021420,Avalon - Palm Beach,12907
+1,New South Wales,122021421,Bayview - Elanora Heights,11168
+1,New South Wales,122021422,Newport - Bilgola,13510
+1,New South Wales,122021690,Mona Vale - Warriewood (North),14683
+1,New South Wales,122021691,North Narrabeen - Warriewood (South),10904
+1,New South Wales,122031424,Beacon Hill - Narraweena,14461
+1,New South Wales,122031425,Cromer,8129
+1,New South Wales,122031427,Forestville - Killarney Heights,13181
+1,New South Wales,122031429,Freshwater - Brookvale,21984
+1,New South Wales,122031430,Manly Vale - Allambie Heights,17403
+1,New South Wales,122031432,Terrey Hills - Duffys Forest,3722
+1,New South Wales,122031692,Belrose,8631
+1,New South Wales,122031693,Collaroy - Collaroy Plateau,13773
+1,New South Wales,122031694,Dee Why (South) - North Curl Curl,9099
+1,New South Wales,122031695,Dee Why - North,18018
+1,New South Wales,122031696,Frenchs Forest - Oxford Falls,17193
+1,New South Wales,122031697,Narrabeen - Wheeler Heights,11039
+1,New South Wales,123011433,Camden - Ellis Lane,13403
+1,New South Wales,123011698,Currans Hill,6721
+1,New South Wales,123011699,Elderslie - Narellan,14226
+1,New South Wales,123011700,Harrington Park,11290
+1,New South Wales,123011701,Mount Annan,19157
+1,New South Wales,123011702,Spring Farm,10105
+1,New South Wales,123021436,Bradbury - Wedderburn,20223
+1,New South Wales,123021437,Campbelltown - Woodbine,22935
+1,New South Wales,123021438,Claymore - Eagle Vale - Raby,20115
+1,New South Wales,123021439,Holsworthy Military Area,3
+1,New South Wales,123021441,Leumeah - Minto Heights,16784
+1,New South Wales,123021443,Minto - St Andrews,21457
+1,New South Wales,123021444,Rosemeadow - Glen Alpine,21239
+1,New South Wales,123021703,Denham Court - Bardia,17500
+1,New South Wales,123021704,Glenfield,10584
+1,New South Wales,123021705,Ingleburn,16745
+1,New South Wales,123021706,Macquarie Fields,14128
+1,New South Wales,123031445,Bargo,6035
+1,New South Wales,123031446,Douglas Park - Appin,11530
+1,New South Wales,123031447,Picton - Tahmoor - Buxton,19687
+1,New South Wales,123031448,The Oaks - Oakdale,10035
+1,New South Wales,124011449,Blackheath - Megalong Valley,5791
+1,New South Wales,124011450,Blaxland - Warrimoo - Lapstone,19054
+1,New South Wales,124011451,Blue Mountains - North,9
+1,New South Wales,124011452,Katoomba - Leura,13195
+1,New South Wales,124011453,Lawson - Hazelbrook - Linden,11490
+1,New South Wales,124011454,Springwood - Winmalee,21884
+1,New South Wales,124011455,Wentworth Falls,6311
+1,New South Wales,124021456,Blue Mountains - South,7
+1,New South Wales,124031457,Cambridge Park,16179
+1,New South Wales,124031459,Emu Plains - Leonay,13833
+1,New South Wales,124031460,Glenmore Park - Regentville,20970
+1,New South Wales,124031461,Jamisontown - South Penrith,17390
+1,New South Wales,124031462,Kingswood - Werrington,25249
+1,New South Wales,124031463,Mulgoa - Luddenham - Orchard Hills,12348
+1,New South Wales,124031464,Penrith,18814
+1,New South Wales,124031465,Warragamba - Silverdale,6437
+1,New South Wales,124031707,Cranebrook - Castlereagh,17077
+1,New South Wales,124031708,Jordan Springs - Llandilo,14213
+1,New South Wales,124041466,Richmond - Clarendon,15512
+1,New South Wales,124041467,Windsor - Bligh Park,15337
+1,New South Wales,124041468,Yarramundi - Londonderry,7457
+1,New South Wales,124051469,Erskine Park,6497
+1,New South Wales,124051470,St Clair,19998
+1,New South Wales,124051580,Colyton - Oxley Park,13167
+1,New South Wales,124051581,St Marys - North St Marys,17662
+1,New South Wales,125011475,Rookwood Cemetery,5
+1,New South Wales,125011582,Auburn - Central,19729
+1,New South Wales,125011583,Auburn - North,10561
+1,New South Wales,125011584,Auburn - South,8946
+1,New South Wales,125011585,Berala,8491
+1,New South Wales,125011586,Lidcombe,21447
+1,New South Wales,125011587,Regents Park,5096
+1,New South Wales,125011709,Silverwater - Newington,9066
+1,New South Wales,125011710,Wentworth Point - Sydney Olympic Park,21928
+1,New South Wales,125021477,Ermington - Rydalmere,25151
+1,New South Wales,125021478,Oatlands - Dundas Valley,18618
+1,New South Wales,125021711,Carlingford - East,11582
+1,New South Wales,125021712,Carlingford - West,19532
+1,New South Wales,125031479,Chester Hill - Sefton,20994
+1,New South Wales,125031480,Fairfield - East,15752
+1,New South Wales,125031481,Granville - Clyde,23605
+1,New South Wales,125031483,Guildford - South Granville,22526
+1,New South Wales,125031484,Guildford West - Merrylands West,23263
+1,New South Wales,125031486,Smithfield Industrial,13
+1,New South Wales,125031487,Yennora Industrial,13
+1,New South Wales,125031713,Greystanes - South,16475
+1,New South Wales,125031714,Merrylands - Holroyd,24057
+1,New South Wales,125031715,Pemulwuy - Greystanes (North),10951
+1,New South Wales,125031716,South Wentworthville,7400
+1,New South Wales,125041489,North Parramatta,22886
+1,New South Wales,125041490,North Rocks,8467
+1,New South Wales,125041491,Northmead,20367
+1,New South Wales,125041493,Toongabbie - Constitution Hill,23035
+1,New South Wales,125041494,Winston Hills,11056
+1,New South Wales,125041588,Pendle Hill - Girraween,13797
+1,New South Wales,125041589,Wentworthville - Westmead,22109
+1,New South Wales,125041717,Parramatta - North,12406
+1,New South Wales,125041718,Parramatta - South,9766
+1,New South Wales,125041719,Rosehill - Harris Park,8887
+1,New South Wales,126011496,Pennant Hills - Cheltenham,21785
+1,New South Wales,126011720,Epping (East) - North Epping,14839
+1,New South Wales,126011721,Epping (NSW) - West,18674
+1,New South Wales,126021498,Gladesville - Huntleys Point,15498
+1,New South Wales,126021499,Hunters Hill - Woolwich,9654
+1,New South Wales,126021500,Macquarie Park - Marsfield,24809
+1,New South Wales,126021501,North Ryde - East Ryde,15676
+1,New South Wales,126021503,West Ryde - Meadowbank,20262
+1,New South Wales,126021590,Putney,4160
+1,New South Wales,126021722,Denistone,6963
+1,New South Wales,126021723,Eastwood,19098
+1,New South Wales,126021724,Ryde - North,20462
+1,New South Wales,126021725,Ryde - South,12337
+1,New South Wales,127011504,Ashcroft - Busby - Miller,18007
+1,New South Wales,127011505,Austral - Greendale,14505
+1,New South Wales,127011592,Badgerys Creek,23
+1,New South Wales,127011593,Cecil Hills,6854
+1,New South Wales,127011594,Green Valley,12770
+1,New South Wales,127011595,Hinchinbrook,12982
+1,New South Wales,127011596,Hoxton Park - Carnes Hill - Horningsea Park,13536
+1,New South Wales,127011597,West Hoxton - Middleton Grange,17330
+1,New South Wales,127011726,Cobbitty - Bringelly,4981
+1,New South Wales,127011727,Gledswood Hills - Gregory Hills,16527
+1,New South Wales,127011728,Leppington - Catherine Field,14567
+1,New South Wales,127011729,Oran Park,20595
+1,New South Wales,127021509,Bonnyrigg Heights - Bonnyrigg,17122
+1,New South Wales,127021510,Bossley Park - Abbotsbury,19398
+1,New South Wales,127021511,Cabramatta - Lansvale,23664
+1,New South Wales,127021512,Cabramatta West - Mount Pritchard,18119
+1,New South Wales,127021513,Canley Vale - Canley Heights,22073
+1,New South Wales,127021514,Edensor Park,10184
+1,New South Wales,127021515,Fairfield,17942
+1,New South Wales,127021516,Fairfield - West,21320
+1,New South Wales,127021517,Greenfield Park - Prairiewood,8698
+1,New South Wales,127021518,Horsley Park - Kemps Creek,4254
+1,New South Wales,127021519,Smithfield - Wetherill Park,19426
+1,New South Wales,127021520,St Johns Park - Wakeley,11050
+1,New South Wales,127021521,Wetherill Park Industrial,39
+1,New South Wales,127031522,Casula,16483
+1,New South Wales,127031523,Chipping Norton - Moorebank,20979
+1,New South Wales,127031524,Holsworthy - Wattle Grove,21005
+1,New South Wales,127031599,Lurnea - Cartwright,12816
+1,New South Wales,127031601,Warwick Farm,5952
+1,New South Wales,127031730,Edmondson Park,14236
+1,New South Wales,127031731,Liverpool - East,18597
+1,New South Wales,127031732,Liverpool - West,13701
+1,New South Wales,127031733,Prestons,15628
+1,New South Wales,128011529,Gymea - Grays Point,18184
+1,New South Wales,128011530,Miranda - Yowie Bay,21244
+1,New South Wales,128011531,Sylvania - Taren Point,16417
+1,New South Wales,128011602,Caringbah,13055
+1,New South Wales,128011603,Caringbah South,13040
+1,New South Wales,128011604,Cronulla - Kurnell - Bundeena,24559
+1,New South Wales,128011605,Lilli Pilli - Port Hacking - Dolans Bay,3415
+1,New South Wales,128011606,Woolooware - Burraneer,9082
+1,New South Wales,128021533,Heathcote - Waterfall,6703
+1,New South Wales,128021534,Illawong - Alfords Point,10493
+1,New South Wales,128021535,Menai - Lucas Heights - Woronora,20817
+1,New South Wales,128021536,Oyster Bay - Como - Jannali,22235
+1,New South Wales,128021537,Royal National Park,45
+1,New South Wales,128021538,Sutherland - Kirrawee,23549
+1,New South Wales,128021607,Engadine,17398
+1,New South Wales,128021608,Loftus - Yarrawarrah,7346
+1,New South Wales,128021609,Woronora Heights,3523
+2,Victoria,201011001,Alfredton,17962
+2,Victoria,201011002,Ballarat,11921
+2,Victoria,201011005,Buninyong,7243
+2,Victoria,201011006,Delacombe,11782
+2,Victoria,201011007,Smythes Creek,4218
+2,Victoria,201011008,Wendouree - Miners Rest,15376
+2,Victoria,201011481,Ballarat East - Warrenheip,9635
+2,Victoria,201011482,Ballarat North - Invermay,14866
+2,Victoria,201011483,Canadian - Mount Clear,12372
+2,Victoria,201011484,Sebastopol - Redan,12946
+2,Victoria,201021009,Bacchus Marsh Surrounds,6537
+2,Victoria,201021010,Creswick - Clunes,7963
+2,Victoria,201021011,Daylesford,9992
+2,Victoria,201021012,Gordon (Vic.),6367
+2,Victoria,201031013,Avoca,3537
+2,Victoria,201031014,Beaufort,4611
+2,Victoria,201031015,Golden Plains - North,4889
+2,Victoria,201031016,Maryborough (Vic.),8162
+2,Victoria,201031017,Maryborough Surrounds,5556
+2,Victoria,202011018,Bendigo,14724
+2,Victoria,202011019,California Gully - Eaglehawk,13078
+2,Victoria,202011020,East Bendigo - Kennington,13874
+2,Victoria,202011021,Flora Hill - Spring Gully,9377
+2,Victoria,202011022,Kangaroo Flat - Golden Square,21173
+2,Victoria,202011023,Maiden Gully,5604
+2,Victoria,202011024,Strathfieldsaye,11020
+2,Victoria,202011025,White Hills - Ascot,14883
+2,Victoria,202021026,Bendigo Surrounds - South,8560
+2,Victoria,202021027,Castlemaine,11329
+2,Victoria,202021028,Castlemaine Surrounds,9291
+2,Victoria,202021029,Heathcote,5146
+2,Victoria,202021030,Kyneton,10551
+2,Victoria,202021031,Woodend,7975
+2,Victoria,202031032,Bendigo Surrounds - North,5012
+2,Victoria,202031033,Loddon,7261
+2,Victoria,203011034,Bannockburn,7948
+2,Victoria,203011035,Golden Plains - South,8241
+2,Victoria,203011036,Winchelsea,6663
+2,Victoria,203021037,Belmont,14921
+2,Victoria,203021039,Geelong,13515
+2,Victoria,203021040,Geelong West - Hamlyn Heights,21322
+2,Victoria,203021042,Highton,24550
+2,Victoria,203021043,Lara,21338
+2,Victoria,203021044,Leopold,13312
+2,Victoria,203021045,Newcomb - Moolap,15263
+2,Victoria,203021046,Newtown (Vic.),10285
+2,Victoria,203021047,North Geelong - Bell Park,15697
+2,Victoria,203021485,Charlemont,11827
+2,Victoria,203021486,Corio - Lovely Banks,18233
+2,Victoria,203021487,Grovedale - Mount Duneed,25763
+2,Victoria,203021488,Norlane,8944
+2,Victoria,203031048,Clifton Springs,17094
+2,Victoria,203031049,Lorne - Anglesea,6267
+2,Victoria,203031051,Portarlington,9912
+2,Victoria,203031052,Point Lonsdale - Queenscliff,5590
+2,Victoria,203031053,Torquay,25419
+2,Victoria,203031489,Barwon Heads - Armstrong Creek,12182
+2,Victoria,203031490,Ocean Grove,19822
+2,Victoria,204011054,Alexandra,6789
+2,Victoria,204011055,Euroa,6878
+2,Victoria,204011056,Kilmore - Broadford,15758
+2,Victoria,204011057,Mansfield (Vic.),10665
+2,Victoria,204011058,Nagambie,4630
+2,Victoria,204011059,Seymour,6572
+2,Victoria,204011060,Seymour Surrounds,4559
+2,Victoria,204011061,Upper Yarra Valley,243
+2,Victoria,204011062,Yea,4253
+2,Victoria,204021063,Benalla,10731
+2,Victoria,204021064,Benalla Surrounds,3794
+2,Victoria,204021065,Rutherglen,4045
+2,Victoria,204021066,Wangaratta,19942
+2,Victoria,204021067,Wangaratta Surrounds,9940
+2,Victoria,204031068,Beechworth,4914
+2,Victoria,204031069,Bright - Mount Beauty,8888
+2,Victoria,204031070,Chiltern - Indigo Valley,3198
+2,Victoria,204031071,Myrtleford,4690
+2,Victoria,204031072,Towong,6156
+2,Victoria,204031073,West Wodonga,15453
+2,Victoria,204031075,Yackandandah,5321
+2,Victoria,204031491,Baranduda - Leneva,13332
+2,Victoria,204031492,Wodonga,14850
+2,Victoria,205011076,Drouin,20512
+2,Victoria,205011077,Mount Baw Baw Region,6621
+2,Victoria,205011078,Trafalgar (Vic.),8440
+2,Victoria,205011079,Warragul,23753
+2,Victoria,205021080,Alps - East,0
+2,Victoria,205021081,Bairnsdale,15761
+2,Victoria,205021082,Bruthen - Omeo,8393
+2,Victoria,205021083,Lake King,0
+2,Victoria,205021084,Lakes Entrance,11170
+2,Victoria,205021085,Orbost,6691
+2,Victoria,205021086,Paynesville,6991
+2,Victoria,205031087,Foster,9435
+2,Victoria,205031088,French Island,143
+2,Victoria,205031089,Korumburra,9908
+2,Victoria,205031090,Leongatha,11544
+2,Victoria,205031091,Phillip Island,14051
+2,Victoria,205031092,Wilsons Promontory,15
+2,Victoria,205031093,Wonthaggi - Inverloch,27502
+2,Victoria,205041094,Churchill,11975
+2,Victoria,205041095,Moe - Newborough,17291
+2,Victoria,205041096,Morwell,14407
+2,Victoria,205041098,Yallourn North - Glengarry,4731
+2,Victoria,205041493,Traralgon - East,12116
+2,Victoria,205041494,Traralgon - West,16939
+2,Victoria,205051099,Alps - West,23
+2,Victoria,205051100,Longford - Loch Sport,4946
+2,Victoria,205051101,Maffra,14914
+2,Victoria,205051102,Rosedale,4863
+2,Victoria,205051103,Sale,15303
+2,Victoria,205051104,Yarram,5586
+2,Victoria,206011106,Brunswick East,13258
+2,Victoria,206011107,Brunswick West,14649
+2,Victoria,206011109,Pascoe Vale South,10407
+2,Victoria,206011495,Brunswick - North,13239
+2,Victoria,206011496,Brunswick - South,13332
+2,Victoria,206011497,Coburg - East,12931
+2,Victoria,206011498,Coburg - West,14094
+2,Victoria,206021110,Alphington - Fairfield,9152
+2,Victoria,206021112,Thornbury,19150
+2,Victoria,206021499,Northcote - East,15116
+2,Victoria,206021500,Northcote - West,10469
+2,Victoria,206031113,Ascot Vale,15161
+2,Victoria,206031115,Flemington,9173
+2,Victoria,206031116,Moonee Ponds,16574
+2,Victoria,206031501,Essendon (West) - Aberfeldie,16174
+2,Victoria,206031502,Essendon - East,12276
+2,Victoria,206041117,Carlton,18031
+2,Victoria,206041118,Docklands,16422
+2,Victoria,206041119,East Melbourne,4875
+2,Victoria,206041120,Flemington Racecourse,78
+2,Victoria,206041121,Kensington (Vic.),10978
+2,Victoria,206041124,Parkville,7442
+2,Victoria,206041125,South Yarra - West,6550
+2,Victoria,206041127,West Melbourne - Industrial,0
+2,Victoria,206041503,Melbourne CBD - East,10674
+2,Victoria,206041504,Melbourne CBD - North,18789
+2,Victoria,206041505,Melbourne CBD - West,17284
+2,Victoria,206041506,North Melbourne,16580
+2,Victoria,206041507,Royal Botanic Gardens Victoria,0
+2,Victoria,206041508,Southbank (West) - South Wharf,6808
+2,Victoria,206041509,Southbank - East,17299
+2,Victoria,206041510,West Melbourne - Residential,7986
+2,Victoria,206051128,Albert Park,16152
+2,Victoria,206051129,Elwood,14860
+2,Victoria,206051130,Port Melbourne,16364
+2,Victoria,206051134,St Kilda East,15967
+2,Victoria,206051511,Port Melbourne Industrial,2216
+2,Victoria,206051512,South Melbourne,11851
+2,Victoria,206051513,St Kilda - Central,12215
+2,Victoria,206051514,St Kilda - West,14229
+2,Victoria,206061135,Armadale,9360
+2,Victoria,206061136,Prahran - Windsor,19241
+2,Victoria,206061138,Toorak,13103
+2,Victoria,206061515,South Yarra - North,11745
+2,Victoria,206061516,South Yarra - South,9955
+2,Victoria,206071139,Abbotsford,9470
+2,Victoria,206071140,Carlton North - Princes Hill,8146
+2,Victoria,206071141,Collingwood,9630
+2,Victoria,206071142,Fitzroy,10773
+2,Victoria,206071143,Fitzroy North,12942
+2,Victoria,206071145,Clifton Hill - Alphington,10255
+2,Victoria,206071517,Richmond (South) - Cremorne,17799
+2,Victoria,206071518,Richmond - North,14041
+2,Victoria,207011146,Ashburton (Vic.),7944
+2,Victoria,207011147,Balwyn,16293
+2,Victoria,207011148,Balwyn North,21288
+2,Victoria,207011149,Camberwell,21263
+2,Victoria,207011150,Glen Iris - East,16870
+2,Victoria,207011152,Hawthorn East,16095
+2,Victoria,207011154,Kew East,6562
+2,Victoria,207011155,Surrey Hills (West) - Canterbury,15892
+2,Victoria,207011519,Hawthorn - North,10039
+2,Victoria,207011520,Hawthorn - South,12258
+2,Victoria,207011521,Kew - South,11729
+2,Victoria,207011522,Kew - West,13178
+2,Victoria,207021156,Bulleen,11421
+2,Victoria,207021157,Doncaster,25614
+2,Victoria,207021159,Templestowe,17143
+2,Victoria,207021160,Templestowe Lower,14324
+2,Victoria,207021424,Doncaster East - North,15767
+2,Victoria,207021425,Doncaster East - South,15688
+2,Victoria,207031161,Blackburn,22296
+2,Victoria,207031162,Blackburn South,10940
+2,Victoria,207031163,Box Hill,23767
+2,Victoria,207031164,Box Hill North,18367
+2,Victoria,207031165,Burwood (Vic.),12898
+2,Victoria,207031166,Burwood East,11070
+2,Victoria,207031167,Surrey Hills (East) - Mont Albert,10311
+2,Victoria,208011168,Beaumaris,14015
+2,Victoria,208011169,Brighton (Vic.),22891
+2,Victoria,208011170,Brighton East,16710
+2,Victoria,208011171,Highett (West) - Cheltenham,12530
+2,Victoria,208011172,Hampton,18475
+2,Victoria,208011173,Sandringham - Black Rock,17480
+2,Victoria,208021174,Bentleigh - McKinnon,25427
+2,Victoria,208021176,Carnegie,18908
+2,Victoria,208021177,Caulfield - North,23027
+2,Victoria,208021178,Caulfield - South,18204
+2,Victoria,208021179,Elsternwick,12103
+2,Victoria,208021180,Hughesdale,7648
+2,Victoria,208021181,Murrumbeena,9522
+2,Victoria,208021182,Ormond - Glen Huntly,13394
+2,Victoria,208021426,Bentleigh East - North,16871
+2,Victoria,208021427,Bentleigh East - South,14092
+2,Victoria,208031183,Aspendale Gardens - Waterways,8910
+2,Victoria,208031184,Braeside,28
+2,Victoria,208031185,Carrum - Patterson Lakes,12169
+2,Victoria,208031186,Chelsea - Bonbeach,15336
+2,Victoria,208031187,Chelsea Heights,5369
+2,Victoria,208031188,Highett (East) - Cheltenham,24515
+2,Victoria,208031189,Edithvale - Aspendale,13646
+2,Victoria,208031190,Mentone,13352
+2,Victoria,208031191,Moorabbin - Heatherton,9204
+2,Victoria,208031192,Moorabbin Airport,26
+2,Victoria,208031193,Mordialloc - Parkdale,21395
+2,Victoria,208041194,Malvern - Glen Iris,20523
+2,Victoria,208041195,Malvern East,22383
+2,Victoria,209011196,Bundoora - East,9825
+2,Victoria,209011197,Greensborough,20834
+2,Victoria,209011198,Heidelberg - Rosanna,16292
+2,Victoria,209011199,Heidelberg West,15255
+2,Victoria,209011200,Ivanhoe,12581
+2,Victoria,209011201,Ivanhoe East - Eaglemont,7805
+2,Victoria,209011202,Montmorency - Briar Hill,16627
+2,Victoria,209011203,Viewbank - Yallambie,18805
+2,Victoria,209011204,Watsonia,9244
+2,Victoria,209021205,Kingsbury,10744
+2,Victoria,209021428,Preston - East,21074
+2,Victoria,209021429,Preston - West,12754
+2,Victoria,209021523,Reservoir - North East,14924
+2,Victoria,209021524,Reservoir - North West,9703
+2,Victoria,209021525,Reservoir - South East,13001
+2,Victoria,209021526,Reservoir - South West,14238
+2,Victoria,209031209,Eltham,23517
+2,Victoria,209031210,Hurstbridge,3531
+2,Victoria,209031211,Kinglake,4308
+2,Victoria,209031212,Panton Hill - St Andrews,5157
+2,Victoria,209031213,Plenty - Yarrambat,9431
+2,Victoria,209031214,Research - North Warrandyte,6966
+2,Victoria,209031215,Wattle Glen - Diamond Creek,14428
+2,Victoria,209041216,Bundoora - North,7477
+2,Victoria,209041217,Bundoora - West,6292
+2,Victoria,209041220,Mill Park - North,17309
+2,Victoria,209041221,Mill Park - South,11160
+2,Victoria,209041223,Thomastown,19968
+2,Victoria,209041224,Wallan,24626
+2,Victoria,209041225,Whittlesea,12300
+2,Victoria,209041431,Epping - East,13158
+2,Victoria,209041432,Epping - South,8073
+2,Victoria,209041433,Epping (Vic.) - West,12377
+2,Victoria,209041435,South Morang - North,12692
+2,Victoria,209041436,South Morang - South,12396
+2,Victoria,209041437,Wollert,28150
+2,Victoria,209041527,Doreen - North,16695
+2,Victoria,209041528,Doreen - South,11086
+2,Victoria,209041529,Lalor - East,9830
+2,Victoria,209041530,Lalor - West,13628
+2,Victoria,209041531,Mernda - North,11638
+2,Victoria,209041532,Mernda - South,12535
+2,Victoria,210011226,Airport West,8286
+2,Victoria,210011227,Essendon Airport,14
+2,Victoria,210011228,Keilor,8534
+2,Victoria,210011230,Niddrie - Essendon West,7559
+2,Victoria,210011231,Strathmore,10182
+2,Victoria,210011533,Avondale Heights,12379
+2,Victoria,210011534,Keilor East,15182
+2,Victoria,210021232,Gisborne,14439
+2,Victoria,210021233,Macedon,3579
+2,Victoria,210021234,Riddells Creek,4525
+2,Victoria,210021235,Romsey,11086
+2,Victoria,210031236,Coburg North,8602
+2,Victoria,210031237,Fawkner,14168
+2,Victoria,210031439,Gowanbrae,3132
+2,Victoria,210031440,Hadfield,6367
+2,Victoria,210031535,Glenroy - East,14848
+2,Victoria,210031536,Glenroy - West,8996
+2,Victoria,210031537,Oak Park,8089
+2,Victoria,210031538,Pascoe Vale,17452
+2,Victoria,210041240,Sunbury,13833
+2,Victoria,210041539,Diggers Rest,5832
+2,Victoria,210041540,Sunbury - South,15463
+2,Victoria,210041541,Sunbury - West,11137
+2,Victoria,210051242,Broadmeadows,13926
+2,Victoria,210051243,Campbellfield - Coolaroo,15862
+2,Victoria,210051245,Gladstone Park - Westmeadows,17973
+2,Victoria,210051246,Greenvale - Bulla,23478
+2,Victoria,210051247,Meadow Heights,14638
+2,Victoria,210051248,Melbourne Airport,129
+2,Victoria,210051250,Tullamarine,6505
+2,Victoria,210051441,Craigieburn - Central,7978
+2,Victoria,210051442,Craigieburn - North,12413
+2,Victoria,210051443,Craigieburn - South,22543
+2,Victoria,210051445,Mickleham - Yuroke,28456
+2,Victoria,210051542,Craigieburn - North West,10347
+2,Victoria,210051543,Craigieburn - West,13607
+2,Victoria,210051544,Roxburgh Park (South) - Somerton,9491
+2,Victoria,210051545,Roxburgh Park - North,14941
+2,Victoria,211011251,Bayswater,12684
+2,Victoria,211011254,Knoxfield - Scoresby,16693
+2,Victoria,211011255,Lysterfield,6568
+2,Victoria,211011256,Rowville - Central,15452
+2,Victoria,211011257,Rowville - North,7801
+2,Victoria,211011258,Rowville - South,10390
+2,Victoria,211011259,Wantirna,14212
+2,Victoria,211011260,Wantirna South,17964
+2,Victoria,211011446,Boronia,23813
+2,Victoria,211011447,Ferntree Gully - North,14231
+2,Victoria,211011448,Ferntree Gully (South) - Upper Ferntree Gully,15331
+2,Victoria,211011449,The Basin,4311
+2,Victoria,211021261,Donvale - Park Orchards,16389
+2,Victoria,211021262,Warrandyte - Wonga Park,10083
+2,Victoria,211031263,Bayswater North,11833
+2,Victoria,211031265,Croydon Hills - Warranwood,18140
+2,Victoria,211031266,Ringwood,18952
+2,Victoria,211031267,Ringwood East,21238
+2,Victoria,211031268,Ringwood North,9654
+2,Victoria,211031450,Croydon - East,16195
+2,Victoria,211031451,Croydon - West,14192
+2,Victoria,211031452,Croydon South,4970
+2,Victoria,211041269,Forest Hill,10854
+2,Victoria,211041270,Mitcham (Vic.),17001
+2,Victoria,211041271,Nunawading,12586
+2,Victoria,211041272,Vermont,10984
+2,Victoria,211041273,Vermont South,12035
+2,Victoria,211051274,Belgrave - Selby,9990
+2,Victoria,211051275,Chirnside Park,12081
+2,Victoria,211051276,Healesville - Yarra Glen,14090
+2,Victoria,211051277,Kilsyth,10095
+2,Victoria,211051278,Lilydale - Coldstream,19891
+2,Victoria,211051279,Monbulk - Silvan,5791
+2,Victoria,211051280,Montrose,6958
+2,Victoria,211051281,Mooroolbark,23590
+2,Victoria,211051282,Mount Dandenong - Olinda,9639
+2,Victoria,211051283,Mount Evelyn,9791
+2,Victoria,211051284,Upwey - Tecoma,9728
+2,Victoria,211051285,Wandin - Seville,7936
+2,Victoria,211051286,Yarra Valley,16945
+2,Victoria,212011289,Emerald - Cockatoo,18721
+2,Victoria,212011546,Beaconsfield - Officer,25728
+2,Victoria,212011547,Bunyip - Garfield,10054
+2,Victoria,212011548,Koo Wee Rup,10794
+2,Victoria,212011549,Pakenham - North East,15771
+2,Victoria,212011550,Pakenham - North West,8089
+2,Victoria,212011551,Pakenham - South East,6591
+2,Victoria,212011552,Pakenham - South West,27419
+2,Victoria,212021293,Berwick - North,23060
+2,Victoria,212021295,Doveton,12145
+2,Victoria,212021297,Hallam,11567
+2,Victoria,212021299,Narre Warren North,8229
+2,Victoria,212021453,Endeavour Hills - North,12064
+2,Victoria,212021454,Endeavour Hills - South,13294
+2,Victoria,212021455,Narre Warren - North East,13491
+2,Victoria,212021456,Narre Warren - South West,14935
+2,Victoria,212021553,Berwick - South East,18350
+2,Victoria,212021554,Berwick - South West,11637
+2,Victoria,212031300,Cranbourne,21583
+2,Victoria,212031303,Cranbourne South,19684
+2,Victoria,212031304,Cranbourne West,22905
+2,Victoria,212031306,Lynbrook - Lyndhurst,18616
+2,Victoria,212031308,Pearcedale - Tooradin,8098
+2,Victoria,212031457,Narre Warren South - East,13157
+2,Victoria,212031458,Narre Warren South - West,16752
+2,Victoria,212031555,Clyde North - North,11676
+2,Victoria,212031556,Clyde North - South,17965
+2,Victoria,212031557,Cranbourne East - North,24198
+2,Victoria,212031558,Cranbourne East - South,13627
+2,Victoria,212031559,Cranbourne North - East,13241
+2,Victoria,212031560,Cranbourne North - West,11973
+2,Victoria,212031561,Hampton Park - East,12821
+2,Victoria,212031562,Hampton Park - West,13404
+2,Victoria,212041309,Clarinda - Oakleigh South,11491
+2,Victoria,212041310,Clayton South,13917
+2,Victoria,212041312,Dandenong North,22538
+2,Victoria,212041313,Dingley Village,10550
+2,Victoria,212041316,Noble Park North,7458
+2,Victoria,212041317,Springvale,22605
+2,Victoria,212041318,Springvale South,12448
+2,Victoria,212041459,Noble Park - East,12849
+2,Victoria,212041460,Noble Park - West,19642
+2,Victoria,212041563,Dandenong - North,21326
+2,Victoria,212041564,Dandenong - South,9541
+2,Victoria,212041565,Keysborough - North,14990
+2,Victoria,212041566,Keysborough - South,15624
+2,Victoria,212051319,Ashwood - Chadstone,20041
+2,Victoria,212051321,Glen Waverley - East,21731
+2,Victoria,212051322,Glen Waverley - West,21478
+2,Victoria,212051323,Mount Waverley - North,16273
+2,Victoria,212051324,Mount Waverley - South,19568
+2,Victoria,212051325,Mulgrave,20204
+2,Victoria,212051326,Oakleigh - Huntingdale,23497
+2,Victoria,212051327,Wheelers Hill,20667
+2,Victoria,212051567,Clayton (North) - Notting Hill,10657
+2,Victoria,212051568,Clayton - Central,12943
+2,Victoria,213011328,Ardeer - Albion,7469
+2,Victoria,213011329,Cairnlea,9999
+2,Victoria,213011331,Delahey,8033
+2,Victoria,213011332,Keilor Downs,12978
+2,Victoria,213011333,Kings Park (Vic.),13831
+2,Victoria,213011334,St Albans - North,20294
+2,Victoria,213011335,St Albans - South,17109
+2,Victoria,213011336,Sunshine,9609
+2,Victoria,213011337,Sunshine North,11976
+2,Victoria,213011338,Sunshine West,18284
+2,Victoria,213011339,Sydenham,11588
+2,Victoria,213011340,Taylors Lakes,16758
+2,Victoria,213011569,Deer Park,17976
+2,Victoria,213011570,Derrimut,8711
+2,Victoria,213021341,Altona,13707
+2,Victoria,213021342,Altona Meadows,18346
+2,Victoria,213021343,Altona North,15048
+2,Victoria,213021344,Newport,18941
+2,Victoria,213021345,Seabrook,4861
+2,Victoria,213021346,Williamstown,16169
+2,Victoria,213031347,Braybrook,19493
+2,Victoria,213031348,Footscray,18064
+2,Victoria,213031349,Maribyrnong,12874
+2,Victoria,213031350,Seddon - Kingsville,9355
+2,Victoria,213031351,West Footscray - Tottenham,11966
+2,Victoria,213031352,Yarraville,15641
+2,Victoria,213041353,Bacchus Marsh,25595
+2,Victoria,213041358,Melton West,21815
+2,Victoria,213041359,Rockbank - Mount Cottrell,22837
+2,Victoria,213041360,Taylors Hill,19868
+2,Victoria,213041461,Burnside,6007
+2,Victoria,213041462,Burnside Heights,6348
+2,Victoria,213041463,Caroline Springs,20667
+2,Victoria,213041571,Brookfield,9958
+2,Victoria,213041572,Cobblebank - Strathtulloh,8846
+2,Victoria,213041573,Eynesbury - Exford,3126
+2,Victoria,213041574,Fraser Rise - Plumpton,12956
+2,Victoria,213041575,Hillside,16206
+2,Victoria,213041576,Kurunjang - Toolern Vale,11818
+2,Victoria,213041577,Melton,7903
+2,Victoria,213041578,Melton South - Weir Views,18678
+2,Victoria,213051361,Hoppers Crossing - North,18241
+2,Victoria,213051362,Hoppers Crossing - South,18493
+2,Victoria,213051363,Laverton,11852
+2,Victoria,213051368,Werribee - South,17443
+2,Victoria,213051464,Point Cook - East,20096
+2,Victoria,213051466,Point Cook - South,19623
+2,Victoria,213051467,Werribee - East,18777
+2,Victoria,213051468,Werribee - West,25455
+2,Victoria,213051579,Manor Lakes - Quandong,11405
+2,Victoria,213051580,Point Cook - North East,14295
+2,Victoria,213051581,Point Cook - North West,9733
+2,Victoria,213051582,Tarneit (West) - Mount Cottrell,13044
+2,Victoria,213051583,Tarneit - Central,28632
+2,Victoria,213051584,Tarneit - North,9396
+2,Victoria,213051585,Tarneit - South,11384
+2,Victoria,213051586,Truganina - North,11555
+2,Victoria,213051587,Truganina - South East,10000
+2,Victoria,213051588,Truganina - South West,19475
+2,Victoria,213051589,Wyndham Vale - North,10693
+2,Victoria,213051590,Wyndham Vale - South,13695
+2,Victoria,214011370,Carrum Downs,22377
+2,Victoria,214011371,Frankston,23805
+2,Victoria,214011372,Frankston North,19586
+2,Victoria,214011373,Frankston South,18982
+2,Victoria,214011374,Langwarrin,25327
+2,Victoria,214011375,Seaford (Vic.),17466
+2,Victoria,214011376,Skye - Sandhurst,13459
+2,Victoria,214021377,Dromana,13553
+2,Victoria,214021378,Flinders,6035
+2,Victoria,214021379,Hastings - Somers,24088
+2,Victoria,214021381,Mount Eliza,18772
+2,Victoria,214021382,Mount Martha,19969
+2,Victoria,214021383,Point Nepean,19912
+2,Victoria,214021384,Rosebud - McCrae,22957
+2,Victoria,214021385,Somerville,18599
+2,Victoria,214021591,Mornington - East,15088
+2,Victoria,214021592,Mornington - West,10627
+2,Victoria,215011386,Ararat,8383
+2,Victoria,215011387,Ararat Surrounds,3184
+2,Victoria,215011388,Horsham,16919
+2,Victoria,215011389,Horsham Surrounds,3435
+2,Victoria,215011390,Nhill Region,6843
+2,Victoria,215011391,St Arnaud,3446
+2,Victoria,215011392,Stawell,8430
+2,Victoria,215011393,West Wimmera,2720
+2,Victoria,215011394,Yarriambiack,6373
+2,Victoria,215021395,Irymple,7759
+2,Victoria,215021396,Merbein,4925
+2,Victoria,215021398,Mildura Surrounds,3733
+2,Victoria,215021399,Red Cliffs,6096
+2,Victoria,215021469,Mildura - North,18109
+2,Victoria,215021470,Mildura - South,16534
+2,Victoria,215031400,Buloke,6114
+2,Victoria,215031401,Gannawarra,6630
+2,Victoria,215031402,Kerang,3893
+2,Victoria,215031403,Robinvale,3680
+2,Victoria,215031404,Swan Hill,11020
+2,Victoria,215031405,Swan Hill Surrounds,6508
+2,Victoria,216011406,Echuca,15615
+2,Victoria,216011407,Kyabram,10991
+2,Victoria,216011408,Lockington - Gunbower,3958
+2,Victoria,216011409,Rochester,3948
+2,Victoria,216011410,Rushworth,4149
+2,Victoria,216021411,Cobram,6492
+2,Victoria,216021412,Moira,2843
+2,Victoria,216021413,Numurkah,12498
+2,Victoria,216021414,Yarrawonga,8707
+2,Victoria,216031415,Mooroopna,8285
+2,Victoria,216031416,Shepparton - North,20080
+2,Victoria,216031418,Shepparton Surrounds - East,4025
+2,Victoria,216031419,Shepparton Surrounds - West,10367
+2,Victoria,216031593,Kialla,9466
+2,Victoria,216031594,Shepparton - South East,16449
+2,Victoria,217011420,Glenelg (Vic.),8855
+2,Victoria,217011421,Hamilton (Vic.),10209
+2,Victoria,217011422,Portland,11157
+2,Victoria,217011423,Southern Grampians,6228
+2,Victoria,217031471,Camperdown,3450
+2,Victoria,217031472,Colac,12615
+2,Victoria,217031473,Colac Surrounds,5603
+2,Victoria,217031474,Corangamite - North,5348
+2,Victoria,217031475,Corangamite - South,7133
+2,Victoria,217031476,Otway,3972
+2,Victoria,217041477,Moyne - East,7041
+2,Victoria,217041478,Moyne - West,10077
+2,Victoria,217041479,Warrnambool - North,22548
+2,Victoria,217041480,Warrnambool - South,13299
+3,Queensland,301011001,Alexandra Hills,16876
+3,Queensland,301011002,Belmont - Gumdale,7691
+3,Queensland,301011003,Birkdale,15525
+3,Queensland,301011004,Capalaba,18698
+3,Queensland,301011005,Thorneside,3945
+3,Queensland,301011006,Wellington Point,12048
+3,Queensland,301021007,Cleveland,16160
+3,Queensland,301021008,Ormiston,6611
+3,Queensland,301021009,Redland Bay,18536
+3,Queensland,301021011,Sheldon - Mount Cotton,8545
+3,Queensland,301021012,Thornlands,20259
+3,Queensland,301021013,Victoria Point,15379
+3,Queensland,301021550,North Stradbroke Island,2215
+3,Queensland,301021551,Southern Moreton Bay Islands,9069
+3,Queensland,301031014,Brisbane Port - Lytton,10
+3,Queensland,301031015,Manly - Lota,8001
+3,Queensland,301031016,Manly West,12039
+3,Queensland,301031017,Murarrie,4946
+3,Queensland,301031018,Tingalpa,9008
+3,Queensland,301031019,Wakerley,9661
+3,Queensland,301031020,Wynnum,14838
+3,Queensland,301031021,Wynnum West - Hemmant,16175
+3,Queensland,302011022,Bald Hills,8070
+3,Queensland,302011023,Bridgeman Downs,11025
+3,Queensland,302011024,Carseldine,10005
+3,Queensland,302011025,Everton Park,10415
+3,Queensland,302011026,McDowall,8225
+3,Queensland,302021027,Aspley,13199
+3,Queensland,302021028,Chermside,11908
+3,Queensland,302021029,Chermside West,6774
+3,Queensland,302021030,Geebung,4600
+3,Queensland,302021031,Kedron - Gordon Park,14837
+3,Queensland,302021032,Stafford,7091
+3,Queensland,302021033,Stafford Heights,7247
+3,Queensland,302021034,Wavell Heights,10601
+3,Queensland,302031035,Boondall,9883
+3,Queensland,302031036,Brisbane Airport,131
+3,Queensland,302031037,Eagle Farm - Pinkenba,2305
+3,Queensland,302031038,Northgate - Virginia,7249
+3,Queensland,302031039,Nudgee - Banyo,11182
+3,Queensland,302031040,Nundah,13752
+3,Queensland,302041041,Bracken Ridge,17911
+3,Queensland,302041042,Brighton (Qld),9844
+3,Queensland,302041043,Deagon,3847
+3,Queensland,302041044,Sandgate - Shorncliffe,6923
+3,Queensland,302041045,Taigum - Fitzgibbon,14456
+3,Queensland,302041046,Zillmere,9536
+3,Queensland,303011047,Camp Hill,12502
+3,Queensland,303011048,Cannon Hill,7237
+3,Queensland,303011049,Carina,12113
+3,Queensland,303011050,Carina Heights,7073
+3,Queensland,303011051,Carindale,16799
+3,Queensland,303021052,Annerley,12406
+3,Queensland,303021053,Coorparoo,18258
+3,Queensland,303021054,Fairfield - Dutton Park,5175
+3,Queensland,303021055,Greenslopes,10910
+3,Queensland,303021056,Holland Park,9060
+3,Queensland,303021057,Holland Park West,6536
+3,Queensland,303021058,Woolloongabba,9222
+3,Queensland,303021059,Yeronga,10488
+3,Queensland,303031060,Eight Mile Plains,15692
+3,Queensland,303031061,Macgregor (Qld),6170
+3,Queensland,303031062,Mansfield (Qld),8996
+3,Queensland,303031063,Mount Gravatt,16361
+3,Queensland,303031064,Rochedale - Burbank,11846
+3,Queensland,303031065,Upper Mount Gravatt,11384
+3,Queensland,303031066,Wishart,11598
+3,Queensland,303041067,Coopers Plains,5902
+3,Queensland,303041068,Moorooka,11086
+3,Queensland,303041069,Robertson,5008
+3,Queensland,303041070,Salisbury - Nathan,7746
+3,Queensland,303041071,Tarragindi,11138
+3,Queensland,303051072,Algester,9349
+3,Queensland,303051073,Calamvale - Stretton,23650
+3,Queensland,303051074,Pallara - Willawong,12339
+3,Queensland,303051075,Parkinson - Drewvale,16508
+3,Queensland,303051076,Rocklea - Acacia Ridge,9832
+3,Queensland,303061077,Kuraby,9144
+3,Queensland,303061078,Runcorn,14408
+3,Queensland,303061079,Sunnybank,9317
+3,Queensland,303061080,Sunnybank Hills,18570
+3,Queensland,304011081,Jindalee - Mount Ommaney,7701
+3,Queensland,304011082,Middle Park - Jamboree Heights,7178
+3,Queensland,304011083,Riverhills,4177
+3,Queensland,304011084,Seventeen Mile Rocks - Sinnamon Park,9815
+3,Queensland,304011085,Westlake,4466
+3,Queensland,304021086,Bellbowrie - Moggill,10722
+3,Queensland,304021087,Brookfield - Kenmore Hills,7141
+3,Queensland,304021088,Chapel Hill,10881
+3,Queensland,304021089,Fig Tree Pocket,4459
+3,Queensland,304021090,Kenmore,9639
+3,Queensland,304021091,Pinjarra Hills - Pullenvale,5813
+3,Queensland,304031092,Chelmer - Graceville,7927
+3,Queensland,304031093,Corinda,5392
+3,Queensland,304031094,Indooroopilly,13936
+3,Queensland,304031095,Sherwood,6581
+3,Queensland,304031096,St Lucia,12969
+3,Queensland,304031097,Taringa,9366
+3,Queensland,304041098,Enoggera,9322
+3,Queensland,304041099,Enoggera Reservoir,33
+3,Queensland,304041100,Keperra,7521
+3,Queensland,304041101,Mitchelton,9141
+3,Queensland,304041102,Mount Coot-tha,0
+3,Queensland,304041103,The Gap,17441
+3,Queensland,304041104,Upper Kedron - Ferny Grove,12066
+3,Queensland,305011105,Brisbane City,14482
+3,Queensland,305011106,Fortitude Valley,10359
+3,Queensland,305011107,Highgate Hill,6644
+3,Queensland,305011108,Kangaroo Point,10545
+3,Queensland,305011109,New Farm,12871
+3,Queensland,305011110,South Brisbane,15468
+3,Queensland,305011111,Spring Hill,7519
+3,Queensland,305011112,West End,15956
+3,Queensland,305021113,Balmoral,4665
+3,Queensland,305021114,Bulimba,7584
+3,Queensland,305021115,East Brisbane,6352
+3,Queensland,305021116,Hawthorne,5298
+3,Queensland,305021117,Morningside - Seven Hills,14908
+3,Queensland,305021118,Norman Park,7002
+3,Queensland,305031119,Albion,4559
+3,Queensland,305031120,Alderley,6848
+3,Queensland,305031121,Ascot,5982
+3,Queensland,305031122,Clayfield,11033
+3,Queensland,305031123,Grange,4755
+3,Queensland,305031124,Hamilton (Qld),6944
+3,Queensland,305031125,Hendra,5045
+3,Queensland,305031126,Kelvin Grove - Herston,10823
+3,Queensland,305031127,Newmarket,5224
+3,Queensland,305031128,Newstead - Bowen Hills,19314
+3,Queensland,305031129,Wilston,4054
+3,Queensland,305031130,Windsor,8274
+3,Queensland,305031131,Wooloowin - Lutwyche,11438
+3,Queensland,305041132,Ashgrove,14118
+3,Queensland,305041133,Auchenflower,5801
+3,Queensland,305041134,Bardon,10614
+3,Queensland,305041135,Paddington - Milton,12544
+3,Queensland,305041136,Red Hill (Qld),6203
+3,Queensland,305041137,Toowong,12892
+3,Queensland,306011138,Brinsmead,5663
+3,Queensland,306011139,Clifton Beach - Kewarra Beach,12156
+3,Queensland,306011140,Freshwater - Stratford,3781
+3,Queensland,306011141,Redlynch,14211
+3,Queensland,306011142,Trinity Beach - Smithfield,17913
+3,Queensland,306011143,Yorkeys Knob - Machans Beach,6271
+3,Queensland,306021144,Bentley Park,8741
+3,Queensland,306021145,Cairns City,12922
+3,Queensland,306021146,Earlville - Bayview Heights,8584
+3,Queensland,306021147,Edmonton,11852
+3,Queensland,306021148,Gordonvale - Trinity,10343
+3,Queensland,306021149,Kanimbla - Mooroobool,10170
+3,Queensland,306021150,Lamb Range,6
+3,Queensland,306021151,Manoora,6316
+3,Queensland,306021152,Manunda,5302
+3,Queensland,306021153,Mount Sheridan,8925
+3,Queensland,306021154,Westcourt - Bungalow,6617
+3,Queensland,306021155,White Rock,5054
+3,Queensland,306021156,Whitfield - Edge Hill,8494
+3,Queensland,306021157,Woree,5206
+3,Queensland,306031158,Babinda,4659
+3,Queensland,306031159,Innisfail,9366
+3,Queensland,306031160,Johnstone,8107
+3,Queensland,306031161,Tully,11261
+3,Queensland,306031162,Wooroonooran,3
+3,Queensland,306031163,Yarrabah,2624
+3,Queensland,306041164,Daintree,6849
+3,Queensland,306041165,Port Douglas,5755
+3,Queensland,306051166,Atherton,11943
+3,Queensland,306051167,Herberton,5618
+3,Queensland,306051168,Kuranda,4928
+3,Queensland,306051169,Malanda - Yungaburra,9283
+3,Queensland,306051170,Mareeba,12156
+3,Queensland,307011171,Balonne,4362
+3,Queensland,307011172,Chinchilla,8943
+3,Queensland,307011173,Goondiwindi,6318
+3,Queensland,307011174,Inglewood - Waggamba,4113
+3,Queensland,307011175,Miles - Wandoan,4257
+3,Queensland,307011176,Roma,7017
+3,Queensland,307011177,Roma Surrounds,6089
+3,Queensland,307011178,Tara,3937
+3,Queensland,307021179,Crows Nest - Rosalie,9410
+3,Queensland,307021180,Jondaryan,7803
+3,Queensland,307021181,Millmerran,3262
+3,Queensland,307021182,Pittsworth,5853
+3,Queensland,307021183,Wambo,17432
+3,Queensland,307031184,Clifton - Greenmount,5212
+3,Queensland,307031185,Southern Downs - East,4437
+3,Queensland,307031186,Southern Downs - West,5092
+3,Queensland,307031187,Stanthorpe,5366
+3,Queensland,307031188,Stanthorpe Surrounds,6372
+3,Queensland,307031189,Warwick,15901
+3,Queensland,308011190,Central Highlands - East,7382
+3,Queensland,308011191,Central Highlands - West,7622
+3,Queensland,308011192,Emerald,14639
+3,Queensland,308031205,Berserker,7176
+3,Queensland,308031206,Bouldercombe,1966
+3,Queensland,308031207,Emu Park,5953
+3,Queensland,308031208,Frenchville - Mount Archer,9248
+3,Queensland,308031209,Glenlee - Rockyview,5457
+3,Queensland,308031210,Gracemere,12810
+3,Queensland,308031211,Lakes Creek,4963
+3,Queensland,308031212,Mount Morgan,2990
+3,Queensland,308031213,Norman Gardens,10938
+3,Queensland,308031214,Park Avenue,5372
+3,Queensland,308031215,Parkhurst - Kawana,7741
+3,Queensland,308031216,Rockhampton - West,5971
+3,Queensland,308031217,Rockhampton City,3419
+3,Queensland,308031218,Rockhampton Surrounds - East,3590
+3,Queensland,308031219,Rockhampton Surrounds - North,4737
+3,Queensland,308031220,Rockhampton Surrounds - West,3094
+3,Queensland,308031221,Shoalwater Bay,22
+3,Queensland,308031222,The Range - Allenstown,8035
+3,Queensland,308031223,Yeppoon,21193
+3,Queensland,308041528,Banana,8997
+3,Queensland,308041529,Biloela,5797
+3,Queensland,308051530,Agnes Water - Miriam Vale,7164
+3,Queensland,308051531,Boyne Island - Tannum Sands,10294
+3,Queensland,308051532,Callemondah,33
+3,Queensland,308051533,Clinton - New Auckland,14633
+3,Queensland,308051534,Gladstone,6319
+3,Queensland,308051535,Gladstone Hinterland,11867
+3,Queensland,308051536,Kin Kora - Sun Valley,3593
+3,Queensland,308051537,South Trees,0
+3,Queensland,308051538,Telina - Toolooa,6519
+3,Queensland,308051539,West Gladstone,5009
+3,Queensland,309011224,Broadbeach Waters,8382
+3,Queensland,309011225,Burleigh Heads,9314
+3,Queensland,309011226,Burleigh Waters,14691
+3,Queensland,309011227,Mermaid Beach - Broadbeach,14833
+3,Queensland,309011228,Mermaid Waters,13637
+3,Queensland,309011229,Miami,7696
+3,Queensland,309021230,Coolangatta,6728
+3,Queensland,309021231,Currumbin - Tugun,12703
+3,Queensland,309021232,Currumbin Waters,9887
+3,Queensland,309021233,Elanora,12800
+3,Queensland,309021234,Palm Beach,16886
+3,Queensland,309031235,Arundel,11514
+3,Queensland,309031236,Biggera Waters,10334
+3,Queensland,309031237,Coombabah,10460
+3,Queensland,309031238,Labrador,18999
+3,Queensland,309031239,Paradise Point - Hollywell,10244
+3,Queensland,309031240,Runaway Bay,9403
+3,Queensland,309041241,Guanaba - Springbrook,4514
+3,Queensland,309041242,Tamborine - Canungra,16160
+3,Queensland,309051243,Currumbin Valley - Tallebudgera,7855
+3,Queensland,309051244,Mudgeeraba - Bonogin,20024
+3,Queensland,309051245,Reedy Creek - Andrews,9088
+3,Queensland,309061246,Carrara,13475
+3,Queensland,309061247,Highland Park,8572
+3,Queensland,309061248,Nerang - Mount Nathan,21744
+3,Queensland,309061249,Pacific Pines - Gaven,18752
+3,Queensland,309061250,Worongary - Tallai,8709
+3,Queensland,309071251,Coomera,22007
+3,Queensland,309071252,Helensvale,19735
+3,Queensland,309071253,Hope Island,15658
+3,Queensland,309071254,Jacobs Well - Alberton,4943
+3,Queensland,309071256,Oxenford - Maudsland,18591
+3,Queensland,309071552,Ormeau (East) - Stapylton,11111
+3,Queensland,309071553,Ormeau (West) - Yatala,12314
+3,Queensland,309071554,Pimpama - North,11456
+3,Queensland,309071555,Pimpama - South,11594
+3,Queensland,309071556,Upper Coomera (South) - Wongawallan,11834
+3,Queensland,309071557,Upper Coomera - North,20959
+3,Queensland,309071558,Willow Vale - Pimpama (West),7578
+3,Queensland,309081259,Clear Island Waters,4443
+3,Queensland,309081260,Merrimac,7294
+3,Queensland,309081262,Varsity Lakes,17184
+3,Queensland,309081559,Robina - East,17243
+3,Queensland,309081560,Robina - West,9152
+3,Queensland,309091263,Ashmore,12580
+3,Queensland,309091264,Molendinar,6552
+3,Queensland,309091265,Parkwood,9013
+3,Queensland,309091540,Southport - North,18745
+3,Queensland,309091541,Southport - South,19345
+3,Queensland,309101267,Benowa,10108
+3,Queensland,309101268,Bundall,4949
+3,Queensland,309101269,Main Beach,4094
+3,Queensland,309101561,Surfers Paradise - North,12939
+3,Queensland,309101562,Surfers Paradise - South,15159
+3,Queensland,310011271,Darra - Sumner,4773
+3,Queensland,310011272,Durack,8450
+3,Queensland,310011274,Inala - Richlands,20444
+3,Queensland,310011275,Oxley (Qld),8840
+3,Queensland,310011276,Wacol,6436
+3,Queensland,310011563,Doolandella,9072
+3,Queensland,310011564,Forest Lake - Ellen Grove,23083
+3,Queensland,310021277,Boonah,12968
+3,Queensland,310021278,Esk,5137
+3,Queensland,310021279,Lake Manchester - England Creek,0
+3,Queensland,310021280,Lockyer Valley - East,22239
+3,Queensland,310021281,Lowood,14677
+3,Queensland,310021282,Rosewood,15076
+3,Queensland,310031283,Brassall,12558
+3,Queensland,310031284,Bundamba,9613
+3,Queensland,310031285,Churchill - Yamanto,6971
+3,Queensland,310031286,Ipswich - Central,6880
+3,Queensland,310031287,Ipswich - East,18387
+3,Queensland,310031288,Ipswich - North,4620
+3,Queensland,310031289,Karalee - Barellan Point,6998
+3,Queensland,310031290,Karana Downs,6167
+3,Queensland,310031291,Leichhardt - One Mile,8495
+3,Queensland,310031292,North Ipswich - Tivoli,6489
+3,Queensland,310031293,Raceview,15594
+3,Queensland,310031294,Ripley,15707
+3,Queensland,310031295,Riverview,3134
+3,Queensland,310041297,Camira - Gailes,9455
+3,Queensland,310041298,Carole Park,7
+3,Queensland,310041299,Collingwood Park - Redbank,12814
+3,Queensland,310041300,Goodna,11189
+3,Queensland,310041301,New Chum,3
+3,Queensland,310041302,Redbank Plains,26083
+3,Queensland,310041303,Springfield,7737
+3,Queensland,310041304,Springfield Lakes,25978
+3,Queensland,310041565,Augustine Heights - Brookwater,9425
+3,Queensland,310041566,Bellbird Park,9775
+3,Queensland,311011305,Beaudesert,15246
+3,Queensland,311021306,Beenleigh,8636
+3,Queensland,311021307,Eagleby,13771
+3,Queensland,311021308,Edens Landing - Holmview,10156
+3,Queensland,311021309,Mount Warren Park,5814
+3,Queensland,311021310,Wolffdene - Bahrs Scrub,10313
+3,Queensland,311031311,Boronia Heights - Park Ridge,21849
+3,Queensland,311031312,Browns Plains,8551
+3,Queensland,311031313,Chambers Flat - Logan Reserve,10707
+3,Queensland,311031314,Crestmead,12427
+3,Queensland,311031315,Greenbank Military Camp,0
+3,Queensland,311031316,Hillcrest,9221
+3,Queensland,311031317,Marsden,16613
+3,Queensland,311031318,Munruben - Park Ridge South,4489
+3,Queensland,311031319,Regents Park - Heritage Park,16390
+3,Queensland,311041322,Logan Village,9026
+3,Queensland,311041567,Flagstone (East) - Riverbend,6844
+3,Queensland,311041568,Flagstone (West) - New Beith,10935
+3,Queensland,311041569,Greenbank - North Maclean,8744
+3,Queensland,311041570,Jimboomba - Glenlogan,19276
+3,Queensland,311041571,Yarrabilba,12260
+3,Queensland,311051323,Bethania - Waterford,12644
+3,Queensland,311051324,Cornubia - Carbrook,9254
+3,Queensland,311051325,Loganholme - Tanah Merah,11970
+3,Queensland,311051326,Loganlea,12322
+3,Queensland,311051327,Shailer Park,12345
+3,Queensland,311051328,Waterford West,8071
+3,Queensland,311061329,Daisy Hill,7097
+3,Queensland,311061330,Kingston (Qld),10652
+3,Queensland,311061331,Logan Central,6424
+3,Queensland,311061332,Rochedale South - Priestdale,15644
+3,Queensland,311061333,Slacks Creek,10626
+3,Queensland,311061334,Springwood,10001
+3,Queensland,311061335,Underwood,7011
+3,Queensland,311061336,Woodridge,13218
+3,Queensland,312011337,Bowen,10319
+3,Queensland,312011338,Broadsound - Nebo,9019
+3,Queensland,312011339,Clermont,3947
+3,Queensland,312011340,Collinsville,3978
+3,Queensland,312011341,Moranbah,9804
+3,Queensland,312021342,Andergrove - Beaconsfield,16367
+3,Queensland,312021343,East Mackay,3819
+3,Queensland,312021344,Eimeo - Rural View,14114
+3,Queensland,312021345,Eungella Hinterland,9
+3,Queensland,312021346,Mackay,4144
+3,Queensland,312021347,Mackay Harbour,637
+3,Queensland,312021348,Mount Pleasant - Glenella,11899
+3,Queensland,312021349,North Mackay,6384
+3,Queensland,312021350,Ooralea - Bakers Creek,6183
+3,Queensland,312021351,Pioneer Valley,9182
+3,Queensland,312021352,Sarina,12147
+3,Queensland,312021353,Seaforth - Calen,8369
+3,Queensland,312021354,Shoal Point - Bucasia,6276
+3,Queensland,312021355,Slade Point,3574
+3,Queensland,312021356,South Mackay,7010
+3,Queensland,312021357,Walkerston - Eton,8565
+3,Queensland,312021358,West Mackay,6483
+3,Queensland,312031359,Airlie - Whitsundays,15141
+3,Queensland,312031360,Cape Conway,0
+3,Queensland,312031361,Proserpine,9142
+3,Queensland,313011362,Beachmere - Sandstone Point,17047
+3,Queensland,313011363,Bribie Island,21456
+3,Queensland,313021364,Burpengary - East,7537
+3,Queensland,313021366,Caboolture - South,24958
+3,Queensland,313021367,Elimbah,4476
+3,Queensland,313021368,Morayfield - East,12034
+3,Queensland,313021369,Wamuran,4334
+3,Queensland,313021572,Caboolture - East,18474
+3,Queensland,313021573,Caboolture - West,12819
+3,Queensland,313031370,Kilcoy,5913
+3,Queensland,313031371,Woodford - D`Aguilar,9634
+3,Queensland,313041372,Burpengary,17451
+3,Queensland,313041373,Deception Bay,23450
+3,Queensland,313041374,Morayfield,6198
+3,Queensland,313041375,Narangba,21890
+3,Queensland,313041376,Upper Caboolture,3415
+3,Queensland,313051377,Clontarf,8594
+3,Queensland,313051378,Margate - Woody Point,12249
+3,Queensland,313051379,Redcliffe,10643
+3,Queensland,313051380,Rothwell - Kippa-Ring,17695
+3,Queensland,313051574,Moreton Island,316
+3,Queensland,313051575,Scarborough - Newport,16185
+3,Queensland,314011382,Albany Creek,16826
+3,Queensland,314011383,Cashmere,20296
+3,Queensland,314011384,Dayboro,9576
+3,Queensland,314011385,Eatons Hill,7924
+3,Queensland,314011386,The Hills District,25068
+3,Queensland,314011387,Samford Valley,12713
+3,Queensland,314021389,Murrumba Downs - Griffin,24925
+3,Queensland,314021576,Dakabin,5615
+3,Queensland,314021577,Kallangur,22713
+3,Queensland,314021578,Mango Hill,16119
+3,Queensland,314021579,North Lakes,23726
+3,Queensland,314031391,Bray Park,10475
+3,Queensland,314031392,Lawnton,7421
+3,Queensland,314031393,Petrie,8855
+3,Queensland,314031394,Strathpine - Brendale,14363
+3,Queensland,315011395,Aurukun,1131
+3,Queensland,315011396,Cape York,8081
+3,Queensland,315011397,Croydon - Etheridge,993
+3,Queensland,315011398,Kowanyama - Pormpuraaw,1776
+3,Queensland,315011399,Northern Peninsula,2896
+3,Queensland,315011400,Tablelands,6288
+3,Queensland,315011401,Torres,3527
+3,Queensland,315011402,Torres Strait Islands,4295
+3,Queensland,315011403,Weipa,4216
+3,Queensland,315021404,Carpentaria,5126
+3,Queensland,315021405,Mount Isa,18693
+3,Queensland,315021406,Mount Isa Surrounds,4187
+3,Queensland,315021407,Northern Highlands,3166
+3,Queensland,315031408,Barcaldine - Blackall,4799
+3,Queensland,315031409,Charleville,3970
+3,Queensland,315031410,Far Central West,2196
+3,Queensland,315031411,Far South West,2770
+3,Queensland,315031412,Longreach,3726
+3,Queensland,316011413,Buderim - North,18592
+3,Queensland,316011414,Buderim - South,17976
+3,Queensland,316011415,Mountain Creek,12143
+3,Queensland,316011416,Sippy Downs,12002
+3,Queensland,316021417,Aroona - Currimundi,10136
+3,Queensland,316021418,Buddina - Minyama,7022
+3,Queensland,316021419,Caloundra - Kings Beach,6994
+3,Queensland,316021421,Golden Beach - Pelican Waters,13368
+3,Queensland,316021422,Moffat Beach - Battery Hill,8172
+3,Queensland,316021423,Parrearra - Warana,10753
+3,Queensland,316021424,Wurtulla - Birtinya,11177
+3,Queensland,316021580,Caloundra West - Baringa,17771
+3,Queensland,316021581,Meridan Plains - Little Mountain (North),14793
+3,Queensland,316031425,Coolum Beach,16409
+3,Queensland,316031426,Marcoola - Mudjimba,12163
+3,Queensland,316031427,Maroochydore - Kuluin,24199
+3,Queensland,316031428,Mooloolaba - Alexandra Headland,12679
+3,Queensland,316051434,Noosa Heads,5190
+3,Queensland,316051435,Noosaville,9384
+3,Queensland,316051437,Sunshine Beach,7048
+3,Queensland,316051438,Tewantin,10604
+3,Queensland,316051543,Peregian Beach - Marcus Beach,4185
+3,Queensland,316051544,Peregian Springs,11235
+3,Queensland,316061439,Beerwah,9520
+3,Queensland,316061440,Caloundra Hinterland,9263
+3,Queensland,316061441,Glass House Mountains,6786
+3,Queensland,316061442,Landsborough,17547
+3,Queensland,316061443,Maroochy Hinterland,6988
+3,Queensland,316061444,Palmwoods,12254
+3,Queensland,316071545,Bli Bli,11248
+3,Queensland,316071546,Diddillibah - Rosemount,4530
+3,Queensland,316071547,Eumundi - Yandina,12874
+3,Queensland,316071548,Nambour,23415
+3,Queensland,316081549,Noosa Hinterland,25036
+3,Queensland,317011445,Cambooya - Wyreema,8205
+3,Queensland,317011446,Darling Heights,15092
+3,Queensland,317011447,Drayton - Harristown,11154
+3,Queensland,317011448,Gatton,8139
+3,Queensland,317011449,Gowrie (Qld),7331
+3,Queensland,317011450,Highfields,15478
+3,Queensland,317011451,Lockyer Valley - West,12291
+3,Queensland,317011452,Middle Ridge,7854
+3,Queensland,317011453,Newtown (Qld),10322
+3,Queensland,317011454,North Toowoomba - Harlaxton,6537
+3,Queensland,317011455,Rangeville,8797
+3,Queensland,317011456,Toowoomba - Central,14250
+3,Queensland,317011457,Toowoomba - East,10704
+3,Queensland,317011458,Toowoomba - West,16732
+3,Queensland,317011459,Wilsonton,14499
+3,Queensland,318011460,Ayr,9091
+3,Queensland,318011461,Burdekin,7754
+3,Queensland,318011462,Charters Towers,8189
+3,Queensland,318011463,Dalrymple,3815
+3,Queensland,318011464,Ingham,4515
+3,Queensland,318011465,Ingham Surrounds,6575
+3,Queensland,318011466,Palm Island,2197
+3,Queensland,318021467,Aitkenvale,4815
+3,Queensland,318021468,Annandale (Qld),10324
+3,Queensland,318021469,Belgian Gardens - Pallarenda,3215
+3,Queensland,318021470,Bohle Plains,9207
+3,Queensland,318021471,Condon - Rasmussen,11108
+3,Queensland,318021472,Cranbrook,5910
+3,Queensland,318021474,Douglas,8079
+3,Queensland,318021475,Garbutt - West End,6400
+3,Queensland,318021476,Gulliver - Currajong - Vincent,7729
+3,Queensland,318021477,Heatley,3969
+3,Queensland,318021478,Hermit Park - Rosslea,5537
+3,Queensland,318021479,Hyde Park - Pimlico,4774
+3,Queensland,318021480,Kelso,11010
+3,Queensland,318021481,Kirwan - East,7835
+3,Queensland,318021482,Kirwan - West,15126
+3,Queensland,318021483,Magnetic Island,2546
+3,Queensland,318021484,Mount Louisa,10514
+3,Queensland,318021485,Mundingburra,3604
+3,Queensland,318021486,Northern Beaches,6758
+3,Queensland,318021487,Oonoonba,7435
+3,Queensland,318021488,South Townsville - Railway Estate,5422
+3,Queensland,318021489,Townsville - South,5005
+3,Queensland,318021490,Townsville City - North Ward,9348
+3,Queensland,318021491,Wulguru - Roseneath,6210
+3,Queensland,318021582,Burdell - Mount Low,20458
+3,Queensland,318021583,Deeragun - Jensen,6284
+3,Queensland,319011492,Ashfield - Kepnock,5801
+3,Queensland,319011493,Bargara - Burnett Heads,19946
+3,Queensland,319011494,Branyan - Kensington,5607
+3,Queensland,319011495,Bundaberg,6323
+3,Queensland,319011496,Bundaberg East - Kalkie,5922
+3,Queensland,319011497,Bundaberg North - Gooburrum,7644
+3,Queensland,319011498,Bundaberg Surrounds - North,9466
+3,Queensland,319011499,Bundaberg Surrounds - South,11278
+3,Queensland,319011500,Millbank - Avoca,7551
+3,Queensland,319011501,Svensson Heights - Norville,5944
+3,Queensland,319011502,Walkervale - Avenell Heights,11145
+3,Queensland,319021503,Gayndah - Mundubbera,6498
+3,Queensland,319021504,Gin Gin,5549
+3,Queensland,319021505,Kingaroy,10779
+3,Queensland,319021506,Kingaroy Surrounds - North,9747
+3,Queensland,319021507,Kingaroy Surrounds - South,4262
+3,Queensland,319021508,Monto - Eidsvold,3722
+3,Queensland,319021509,Nanango,10279
+3,Queensland,319021510,North Burnett,13
+3,Queensland,319031511,Cooloola,6790
+3,Queensland,319031512,Gympie - North,15249
+3,Queensland,319031513,Gympie - South,7913
+3,Queensland,319031514,Gympie Surrounds,21267
+3,Queensland,319031515,Kilkivan,3848
+3,Queensland,319041516,Booral - River Heads,6407
+3,Queensland,319041517,Craignish - Dundowran Beach,5872
+3,Queensland,319041518,Pialba - Eli Waters,16350
+3,Queensland,319041519,Point Vernon,5790
+3,Queensland,319041520,Torquay - Scarness - Kawungan,16118
+3,Queensland,319041521,Urangan - Wondunna,15548
+3,Queensland,319051522,Burrum - Fraser,11055
+3,Queensland,319051523,Granville,3109
+3,Queensland,319051524,Maryborough (Qld),18986
+3,Queensland,319051525,Maryborough Surrounds - South,10047
+3,Queensland,319051526,Tinana,5985
+4,South Australia,401011001,Adelaide,19172
+4,South Australia,401011002,North Adelaide,6948
+4,South Australia,401021003,Adelaide Hills,7091
+4,South Australia,401021004,Aldgate - Stirling,18444
+4,South Australia,401021005,Hahndorf - Echunga,4756
+4,South Australia,401021006,Lobethal - Woodside,9595
+4,South Australia,401021007,Mount Barker,23548
+4,South Australia,401021008,Mount Barker Surrounds,7002
+4,South Australia,401021009,Nairne,5507
+4,South Australia,401021010,Uraidla - Summertown,6184
+4,South Australia,401031011,Burnside - Wattle Park,19368
+4,South Australia,401031012,Beaumont - Glen Osmond,10452
+4,South Australia,401031013,Toorak Gardens,16872
+4,South Australia,401041014,Athelstone,9682
+4,South Australia,401041015,Paradise - Newton,22129
+4,South Australia,401041016,Rostrevor - Magill,24582
+4,South Australia,401051017,Norwood (SA),11030
+4,South Australia,401051018,Payneham - Felixstow,13281
+4,South Australia,401051019,St Peters - Marden,13690
+4,South Australia,401061020,Nailsworth - Broadview,6543
+4,South Australia,401061021,Prospect,16198
+4,South Australia,401061022,Walkerville,8179
+4,South Australia,401071023,Goodwood - Millswood,17850
+4,South Australia,401071024,Unley - Parkside,21235
+4,South Australia,402011025,Gawler - North,9763
+4,South Australia,402011026,Gawler - South,22723
+4,South Australia,402011027,Lewiston - Two Wells,7014
+4,South Australia,402021028,Craigmore - Blakeview,20664
+4,South Australia,402021029,Davoren Park,19042
+4,South Australia,402021030,Elizabeth,11069
+4,South Australia,402021031,Elizabeth East,14203
+4,South Australia,402021032,Munno Para West - Angle Vale,17925
+4,South Australia,402021033,One Tree Hill,2491
+4,South Australia,402021034,Smithfield - Elizabeth North,12668
+4,South Australia,402021035,Virginia - Waterloo Corner,6123
+4,South Australia,402031036,Enfield - Blair Athol,26589
+4,South Australia,402031038,Windsor Gardens,22982
+4,South Australia,402031175,Northgate - Northfield,18810
+4,South Australia,402031176,Valley View - Gilles Plains,10646
+4,South Australia,402041039,Dry Creek - North,0
+4,South Australia,402041040,Ingle Farm,15816
+4,South Australia,402041041,Para Hills,15229
+4,South Australia,402041042,Parafield,17
+4,South Australia,402041043,Parafield Gardens,18641
+4,South Australia,402041044,Paralowie,18093
+4,South Australia,402041046,Salisbury,18852
+4,South Australia,402041047,Salisbury East,18760
+4,South Australia,402041048,Salisbury North,18842
+4,South Australia,402041171,Mawson Lakes - Globe Derby Park,14291
+4,South Australia,402041172,Pooraka - Cavan,8163
+4,South Australia,402051049,Golden Grove,10517
+4,South Australia,402051050,Greenwith,9101
+4,South Australia,402051051,Highbury - Dernancourt,11335
+4,South Australia,402051052,Hope Valley - Modbury,17823
+4,South Australia,402051053,Modbury Heights,19453
+4,South Australia,402051054,Redwood Park,16549
+4,South Australia,402051055,St Agnes - Ridgehaven,13299
+4,South Australia,403011056,Brighton (SA),15340
+4,South Australia,403011057,Glenelg (SA),20856
+4,South Australia,403021058,Edwardstown,14851
+4,South Australia,403021059,Hallett Cove,12673
+4,South Australia,403021060,Marino - Seaview Downs,9826
+4,South Australia,403021061,Mitchell Park,17000
+4,South Australia,403021062,Morphettville,16949
+4,South Australia,403021063,Sheidow Park - Trott Park,10329
+4,South Australia,403021064,Warradale,16656
+4,South Australia,403031065,Belair,4917
+4,South Australia,403031066,Bellevue Heights,7754
+4,South Australia,403031067,Blackwood,13180
+4,South Australia,403031068,Colonel Light Gardens,15931
+4,South Australia,403031069,Mitcham (SA),16612
+4,South Australia,403031070,Panorama,8655
+4,South Australia,403041071,Aberfoyle Park,11901
+4,South Australia,403041072,Aldinga,16229
+4,South Australia,403041073,Christie Downs,9634
+4,South Australia,403041074,Christies Beach,11353
+4,South Australia,403041075,Clarendon,2783
+4,South Australia,403041076,Coromandel Valley,4544
+4,South Australia,403041077,Flagstaff Hill,10932
+4,South Australia,403041078,Hackham - Onkaparinga Hills,7101
+4,South Australia,403041079,Hackham West - Huntfield Heights,7920
+4,South Australia,403041080,Happy Valley,14064
+4,South Australia,403041081,Happy Valley Reservoir,0
+4,South Australia,403041082,Lonsdale,25
+4,South Australia,403041083,McLaren Vale,7743
+4,South Australia,403041084,Morphett Vale - East,13998
+4,South Australia,403041085,Morphett Vale - West,10317
+4,South Australia,403041086,Reynella,10460
+4,South Australia,403041088,Willunga,3656
+4,South Australia,403041089,Woodcroft,11671
+4,South Australia,403041177,Seaford - Seaford Meadows,14613
+4,South Australia,403041178,Seaford Rise - Moana,10956
+4,South Australia,404011090,Beverley,9188
+4,South Australia,404011091,Flinders Park,16877
+4,South Australia,404011092,Henley Beach,15917
+4,South Australia,404011093,Hindmarsh - Brompton,19769
+4,South Australia,404011094,Royal Park - Hendon - Albert Park,6647
+4,South Australia,404011095,Seaton - Grange,17714
+4,South Australia,404011096,West Lakes,15544
+4,South Australia,404011097,Woodville - Cheltenham,19791
+4,South Australia,404021098,Dry Creek - South,0
+4,South Australia,404021099,Largs Bay - Semaphore,15056
+4,South Australia,404021100,North Haven,15082
+4,South Australia,404021101,Port Adelaide,11887
+4,South Australia,404021102,The Parks,20213
+4,South Australia,404021103,Torrens Island,5
+4,South Australia,404031104,Adelaide Airport,0
+4,South Australia,404031105,Fulham,2992
+4,South Australia,404031106,Lockleys,13717
+4,South Australia,404031107,Plympton,27153
+4,South Australia,404031108,Richmond (SA),17403
+4,South Australia,404031109,West Beach,5240
+4,South Australia,405011110,Barossa - Angaston,6689
+4,South Australia,405011111,Light,10189
+4,South Australia,405011112,Lyndoch,6765
+4,South Australia,405011113,Mallala,3447
+4,South Australia,405011114,Nuriootpa,7459
+4,South Australia,405011115,Tanunda,4745
+4,South Australia,405021116,Clare,4195
+4,South Australia,405021117,Gilbert Valley,5123
+4,South Australia,405021118,Goyder,4150
+4,South Australia,405021119,Wakefield - Barunga West,9744
+4,South Australia,405031120,Jamestown,4704
+4,South Australia,405031121,Peterborough - Mount Remarkable,5442
+4,South Australia,405031122,Port Pirie,14214
+4,South Australia,405031123,Port Pirie Surrounds,3377
+4,South Australia,405041124,Kadina,5596
+4,South Australia,405041125,Moonta,5424
+4,South Australia,405041126,Wallaroo,4638
+4,South Australia,405041127,Yorke Peninsula - North,7661
+4,South Australia,405041128,Yorke Peninsula - South,4263
+4,South Australia,406011129,Ceduna,2810
+4,South Australia,406011130,Eyre Peninsula,7016
+4,South Australia,406011131,Kimba - Cleve - Franklin Harbour,4289
+4,South Australia,406011132,Le Hunte - Elliston,2168
+4,South Australia,406011133,Port Lincoln,16920
+4,South Australia,406011134,West Coast (SA),3801
+4,South Australia,406011135,Western,144
+4,South Australia,406011136,Whyalla,21799
+4,South Australia,406011137,Whyalla - North,0
+4,South Australia,406021138,APY Lands,2595
+4,South Australia,406021139,Coober Pedy,1576
+4,South Australia,406021140,Quorn - Lake Gilles,2182
+4,South Australia,406021141,Outback,2013
+4,South Australia,406021142,Port Augusta,14130
+4,South Australia,406021143,Roxby Downs,4105
+4,South Australia,407011144,Goolwa - Port Elliot,12991
+4,South Australia,407011145,Kangaroo Island,5084
+4,South Australia,407011146,Strathalbyn,8141
+4,South Australia,407011147,Strathalbyn Surrounds,8249
+4,South Australia,407011148,Victor Harbor,16437
+4,South Australia,407011149,Yankalilla,6680
+4,South Australia,407021150,Grant,6325
+4,South Australia,407021151,Kingston - Robe,3972
+4,South Australia,407021152,Millicent,5365
+4,South Australia,407021154,Naracoorte,6465
+4,South Australia,407021155,Naracoorte Surrounds,2463
+4,South Australia,407021156,Penola,3168
+4,South Australia,407021157,Tatiara,7040
+4,South Australia,407021158,Wattle Range,3560
+4,South Australia,407021173,Mount Gambier - East,15409
+4,South Australia,407021174,Mount Gambier - West,15032
+4,South Australia,407031159,Barmera,6541
+4,South Australia,407031160,Berri,4236
+4,South Australia,407031161,Karoonda - Lameroo,2958
+4,South Australia,407031162,Loxton,5731
+4,South Australia,407031163,Loxton Surrounds,1787
+4,South Australia,407031164,Mannum,6782
+4,South Australia,407031165,Murray Bridge,19067
+4,South Australia,407031166,Murray Bridge Surrounds,3838
+4,South Australia,407031167,Renmark,4798
+4,South Australia,407031168,Renmark Surrounds,5246
+4,South Australia,407031169,The Coorong,5580
+4,South Australia,407031170,Waikerie,6764
+5,Western Australia,501011001,Augusta,7050
+5,Western Australia,501011003,Busselton Surrounds,12663
+5,Western Australia,501011004,Margaret River,10836
+5,Western Australia,501011293,Busselton - East,9761
+5,Western Australia,501011294,Busselton - West,20362
+5,Western Australia,501021005,Australind - Leschenault,20354
+5,Western Australia,501021007,Capel,5697
+5,Western Australia,501021008,College Grove - Carey Park,7310
+5,Western Australia,501021009,Collie,9147
+5,Western Australia,501021010,Dardanup,3443
+5,Western Australia,501021011,Davenport,11
+5,Western Australia,501021012,Eaton - Pelican Point,12897
+5,Western Australia,501021014,Harvey,9787
+5,Western Australia,501021015,East Bunbury - Glen Iris,7518
+5,Western Australia,501021016,Waroona,4405
+5,Western Australia,501021251,Dalyellup,10268
+5,Western Australia,501021252,Gelorup - Stratham,3158
+5,Western Australia,501021253,South Bunbury - Bunbury,13212
+5,Western Australia,501021254,Withers - Usher,5378
+5,Western Australia,501031017,Bridgetown - Boyup Brook,7465
+5,Western Australia,501031018,Donnybrook - Balingup,6400
+5,Western Australia,501031019,Manjimup,5630
+5,Western Australia,501031020,Pemberton,5375
+5,Western Australia,502011021,Dawesville - Bouvard,9057
+5,Western Australia,502011022,Falcon - Wannanup,10167
+5,Western Australia,502011023,Greenfields,10282
+5,Western Australia,502011024,Halls Head - Erskine,20955
+5,Western Australia,502011025,Mandurah,10748
+5,Western Australia,502011026,Mandurah - East,6991
+5,Western Australia,502011027,Mandurah - North,22866
+5,Western Australia,502011028,Mandurah - South,11952
+5,Western Australia,502011029,Pinjarra,10842
+5,Western Australia,503011030,City Beach,7023
+5,Western Australia,503011031,Claremont (WA),9627
+5,Western Australia,503011032,Cottesloe,8075
+5,Western Australia,503011033,Floreat,8997
+5,Western Australia,503011034,Mosman Park - Peppermint Grove,11229
+5,Western Australia,503011035,Nedlands - Dalkeith - Crawley,19693
+5,Western Australia,503011036,Swanbourne - Mount Claremont,10000
+5,Western Australia,503021037,Kings Park (WA),50
+5,Western Australia,503021038,Mount Hawthorn - Leederville,12413
+5,Western Australia,503021039,Mount Lawley - Inglewood,17565
+5,Western Australia,503021040,North Perth,10141
+5,Western Australia,503021042,Subiaco - Shenton Park,18365
+5,Western Australia,503021043,Wembley - West Leederville - Glendalough,19752
+5,Western Australia,503021295,East Perth,12549
+5,Western Australia,503021296,Perth (North) - Highgate,12107
+5,Western Australia,503021297,Perth (West) - Northbridge,13035
+5,Western Australia,504011044,Bassendean - Eden Hill - Ashfield,16601
+5,Western Australia,504011045,Bayswater - Embleton - Bedford,25546
+5,Western Australia,504011046,Maylands,13811
+5,Western Australia,504011047,Morley,23725
+5,Western Australia,504011048,Noranda,8299
+5,Western Australia,504021049,Chidlow,4747
+5,Western Australia,504021050,Glen Forrest - Darlington,7447
+5,Western Australia,504021051,Helena Valley - Koongamia,6088
+5,Western Australia,504021052,Malmalling - Reservoir,10
+5,Western Australia,504021053,Mundaring,13810
+5,Western Australia,504021054,Swan View - Greenmount - Midvale,13501
+5,Western Australia,504031055,Avon Valley National Park,7
+5,Western Australia,504031056,Ballajura,19199
+5,Western Australia,504031057,Beechboro,23151
+5,Western Australia,504031058,Bullsbrook,6030
+5,Western Australia,504031060,Gidgegannup,2944
+5,Western Australia,504031061,Hazelmere - Guildford,5911
+5,Western Australia,504031062,Lockridge - Kiara,13357
+5,Western Australia,504031063,Malaga,23
+5,Western Australia,504031064,Melaleuca - Lexia,0
+5,Western Australia,504031065,Middle Swan - Herne Hill,5927
+5,Western Australia,504031066,Midland - Guildford,11519
+5,Western Australia,504031067,Stratton - Jane Brook,7310
+5,Western Australia,504031068,The Vines,13344
+5,Western Australia,504031069,Walyunga National Park,0
+5,Western Australia,504031298,Aveley,16983
+5,Western Australia,504031299,Brabham - Henley Brook,12795
+5,Western Australia,504031300,Ellenbrook,20075
+5,Western Australia,505011070,Craigie - Beldon,10966
+5,Western Australia,505011071,Currambine - Kinross,14246
+5,Western Australia,505011072,Duncraig,16535
+5,Western Australia,505011073,Greenwood - Warwick,14185
+5,Western Australia,505011074,Heathridge - Connolly,11017
+5,Western Australia,505011075,Hillarys,11518
+5,Western Australia,505011076,Iluka - Burns Beach,10209
+5,Western Australia,505011077,Joondalup - Edgewater,14326
+5,Western Australia,505011078,Kingsley,13580
+5,Western Australia,505011079,Mullaloo - Kallaroo,11970
+5,Western Australia,505011080,Ocean Reef,8376
+5,Western Australia,505011081,Padbury,8950
+5,Western Australia,505011082,Sorrento - Marmion,10490
+5,Western Australia,505011083,Woodvale,9891
+5,Western Australia,505021084,Balcatta - Hamersley,16700
+5,Western Australia,505021085,Balga - Mirrabooka,21952
+5,Western Australia,505021087,Herdsman,0
+5,Western Australia,505021088,Innaloo - Doubleview,19312
+5,Western Australia,505021089,Karrinyup - Gwelup - Carine,23639
+5,Western Australia,505021090,Nollamara - Westminster,20736
+5,Western Australia,505021091,Osborne Park Industrial,249
+5,Western Australia,505021092,Scarborough,18348
+5,Western Australia,505021093,Stirling - Osborne Park,15238
+5,Western Australia,505021094,Trigg - North Beach - Watermans Bay,8285
+5,Western Australia,505021095,Tuart Hill - Joondanna,13332
+5,Western Australia,505021096,Wembley Downs - Churchlands - Woodlands,15635
+5,Western Australia,505021097,Yokine - Coolbinia - Menora,17732
+5,Western Australia,505021301,Dianella - North,12404
+5,Western Australia,505021302,Dianella - South,13524
+5,Western Australia,505031098,Alexander Heights - Koondoola,11976
+5,Western Australia,505031099,Butler - Merriwa - Ridgewood,24809
+5,Western Australia,505031100,Carramar,19833
+5,Western Australia,505031101,Clarkson,14559
+5,Western Australia,505031102,Girrawheen,9451
+5,Western Australia,505031104,Marangaroo,10709
+5,Western Australia,505031105,Mindarie - Quinns Rocks - Jindalee,21912
+5,Western Australia,505031106,Neerabup National Park,4
+5,Western Australia,505031107,Tapping - Ashby - Sinagra,14137
+5,Western Australia,505031255,Alkimos - Eglinton,15852
+5,Western Australia,505031256,Carabooda - Pinjar,759
+5,Western Australia,505031257,Two Rocks,4149
+5,Western Australia,505031258,Yanchep,11789
+5,Western Australia,505031303,Hocking - Pearsall,13878
+5,Western Australia,505031304,Landsdale,16428
+5,Western Australia,505031305,Madeley - Darch,14696
+5,Western Australia,505031306,Wanneroo - Sinagra,15271
+5,Western Australia,506011110,Armadale - Wungong - Brookdale,25142
+5,Western Australia,506011111,Ashendon - Lesley,3
+5,Western Australia,506011112,Camillo - Champion Lakes,6163
+5,Western Australia,506011114,Kelmscott,10933
+5,Western Australia,506011115,Mount Nasura - Mount Richon - Bedfordale,8628
+5,Western Australia,506011116,Roleystone,7508
+5,Western Australia,506011117,Seville Grove,12036
+5,Western Australia,506011307,Harrisdale,12521
+5,Western Australia,506011308,Piara Waters - Forrestdale,17803
+5,Western Australia,506021118,Belmont - Ascot - Redcliffe,15781
+5,Western Australia,506021119,East Victoria Park - Carlisle,18048
+5,Western Australia,506021120,Kewdale Commercial,0
+5,Western Australia,506021121,Perth Airport,23
+5,Western Australia,506021123,Victoria Park - Lathlain - Burswood,16661
+5,Western Australia,506021309,Cloverdale,9234
+5,Western Australia,506021310,Kewdale,7703
+5,Western Australia,506021311,Rivervale,11517
+5,Western Australia,506031124,Bentley - Wilson - St James,21453
+5,Western Australia,506031125,Canning Vale - West,10342
+5,Western Australia,506031126,Canning Vale Commercial,5
+5,Western Australia,506031127,Cannington - Queens Park,21731
+5,Western Australia,506031128,Parkwood - Ferndale - Lynwood,14426
+5,Western Australia,506031129,Riverton - Shelley - Rossmoyne,14950
+5,Western Australia,506031130,Welshpool,14
+5,Western Australia,506031131,Willetton,19961
+5,Western Australia,506041132,Beckenham - Kenwick - Langford,21193
+5,Western Australia,506041133,Canning Vale - East,25446
+5,Western Australia,506041134,Gosnells,22354
+5,Western Australia,506041135,Huntingdale - Southern River,23389
+5,Western Australia,506041136,Maddington - Orange Grove - Martin,15819
+5,Western Australia,506041137,Thornlie,24644
+5,Western Australia,506051138,Forrestfield - Wattle Grove,20902
+5,Western Australia,506051139,High Wycombe,12687
+5,Western Australia,506051140,Kalamunda - Maida Vale - Gooseberry Hill,15659
+5,Western Australia,506051141,Lesmurdie - Bickley - Carmel,11981
+5,Western Australia,506061142,Byford,22520
+5,Western Australia,506061143,Mundijong,7559
+5,Western Australia,506061144,Serpentine - Jarrahdale,4752
+5,Western Australia,506071145,Como,15092
+5,Western Australia,506071146,Manning - Waterford,12111
+5,Western Australia,506071147,South Perth - Kensington,17954
+5,Western Australia,507011148,Banjup,23506
+5,Western Australia,507011150,Bibra Industrial,20
+5,Western Australia,507011151,Bibra Lake,0
+5,Western Australia,507011152,Coogee,10233
+5,Western Australia,507011153,Coolbellup,8864
+5,Western Australia,507011154,Hamilton Hill,11888
+5,Western Australia,507011155,Henderson,9
+5,Western Australia,507011158,North Coogee,4102
+5,Western Australia,507011159,South Lake - Cockburn Central,12245
+5,Western Australia,507011160,Spearwood,11783
+5,Western Australia,507011161,Success - Hammond Park,18750
+5,Western Australia,507011163,Yangebup,7951
+5,Western Australia,507011259,Beeliar - Wattleup,10901
+5,Western Australia,507011260,Jandakot,2534
+5,Western Australia,507021164,East Fremantle,8060
+5,Western Australia,507021165,Fremantle,17830
+5,Western Australia,507021166,Fremantle - South,16028
+5,Western Australia,507021167,O`Connor (WA),7
+5,Western Australia,507031169,Wellard (West) - Bertram,19617
+5,Western Australia,507031170,Calista,7696
+5,Western Australia,507031172,Hope Valley - Postans,80
+5,Western Australia,507031173,Kwinana Industrial,25
+5,Western Australia,507031174,Parmelia - Orelia,11793
+5,Western Australia,507031261,Casuarina - Wandi,10246
+5,Western Australia,507041175,Applecross - Ardross,12153
+5,Western Australia,507041176,Bateman,3921
+5,Western Australia,507041177,Bicton - Palmyra,15324
+5,Western Australia,507041178,Booragoon,16170
+5,Western Australia,507041179,Bull Creek,8252
+5,Western Australia,507041180,Leeming,11174
+5,Western Australia,507041181,Melville,18088
+5,Western Australia,507041182,Murdoch - Kardinya,12873
+5,Western Australia,507041183,Willagee,5744
+5,Western Australia,507041184,Winthrop,6202
+5,Western Australia,507051186,Cooloongup,8802
+5,Western Australia,507051187,Port Kennedy,13960
+5,Western Australia,507051188,Rockingham,17389
+5,Western Australia,507051189,Rockingham Lakes,3
+5,Western Australia,507051190,Safety Bay - Shoalwater,12554
+5,Western Australia,507051191,Singleton - Golden Bay - Secret Harbour,23664
+5,Western Australia,507051192,Waikiki,13039
+5,Western Australia,507051193,Warnbro,11219
+5,Western Australia,507051312,Baldivis - North,12939
+5,Western Australia,507051313,Baldivis - South,27721
+5,Western Australia,507051314,Karnup,2270
+5,Western Australia,509011225,Albany,15414
+5,Western Australia,509011226,Albany Surrounds,3857
+5,Western Australia,509011227,Bayonet Head - Lower King,5449
+5,Western Australia,509011228,Denmark,6534
+5,Western Australia,509011229,Gnowangerup,2960
+5,Western Australia,509011230,Katanning,4702
+5,Western Australia,509011231,Kojonup,4206
+5,Western Australia,509011232,Little Grove - Elleker,3811
+5,Western Australia,509011233,McKail - Willyung,11903
+5,Western Australia,509011234,Plantagenet,5590
+5,Western Australia,509011235,Stirling Range National Park,0
+5,Western Australia,509021236,Chittering,6301
+5,Western Australia,509021237,Cunderdin,3905
+5,Western Australia,509021238,Dowerin,3913
+5,Western Australia,509021239,Gingin - Dandaragan,9451
+5,Western Australia,509021240,Merredin,5068
+5,Western Australia,509021241,Moora,4627
+5,Western Australia,509021242,Mukinbudin,3063
+5,Western Australia,509021243,Northam,11940
+5,Western Australia,509021244,Toodyay,4812
+5,Western Australia,509021245,York - Beverley,5303
+5,Western Australia,509031246,Brookton,3592
+5,Western Australia,509031247,Kulin,4339
+5,Western Australia,509031248,Murray,2450
+5,Western Australia,509031249,Narrogin,4533
+5,Western Australia,509031250,Wagin,5016
+5,Western Australia,510011262,Broome,15774
+5,Western Australia,510011263,Derby - West Kimberley,8373
+5,Western Australia,510011264,Halls Creek,4140
+5,Western Australia,510011265,Kununurra,8058
+5,Western Australia,510011266,Roebuck,2587
+5,Western Australia,510021267,East Pilbara,6220
+5,Western Australia,510021268,Newman,4494
+5,Western Australia,510021269,Port Hedland,4453
+5,Western Australia,510021270,South Hedland,12127
+5,Western Australia,510031271,Ashburton (WA),7832
+5,Western Australia,510031272,Karratha,18229
+5,Western Australia,510031273,Roebourne,5549
+5,Western Australia,511011274,Esperance,12536
+5,Western Australia,511011275,Esperance Surrounds,4158
+5,Western Australia,511021276,Carnarvon,5155
+5,Western Australia,511021277,Exmouth,4952
+5,Western Australia,511031278,Boulder,7526
+5,Western Australia,511031279,Kalgoorlie,13734
+5,Western Australia,511031280,Kalgoorlie - North,9183
+5,Western Australia,511031281,Kalgoorlie Airport,0
+5,Western Australia,511031282,Kambalda - Coolgardie - Norseman,4593
+5,Western Australia,511031283,Leinster - Leonora,5201
+5,Western Australia,511031284,Trafalgar (WA),0
+5,Western Australia,511041285,Geraldton,12396
+5,Western Australia,511041286,Geraldton - East,8231
+5,Western Australia,511041287,Geraldton - North,9166
+5,Western Australia,511041288,Geraldton - South,10873
+5,Western Australia,511041289,Irwin,3795
+5,Western Australia,511041290,Meekatharra,3386
+5,Western Australia,511041291,Morawa,3992
+5,Western Australia,511041292,Northampton - Mullewa - Greenough,5829
+6,Tasmania,601011001,Bridgewater - Gagebrook,8433
+6,Tasmania,601011002,Brighton - Pontville,6750
+6,Tasmania,601011003,Old Beach - Otago,5117
+6,Tasmania,601021004,Bellerive - Rosny,6575
+6,Tasmania,601021005,Cambridge,8798
+6,Tasmania,601021006,Geilston Bay - Risdon,3546
+6,Tasmania,601021007,Howrah - Tranmere,11990
+6,Tasmania,601021008,Lindisfarne - Rose Bay,7885
+6,Tasmania,601021009,Mornington - Warrane,5231
+6,Tasmania,601021010,Risdon Vale,3590
+6,Tasmania,601021011,Rokeby,8435
+6,Tasmania,601021012,South Arm,4643
+6,Tasmania,601031013,Austins Ferry - Granton,4449
+6,Tasmania,601031014,Berriedale - Chigwell,5819
+6,Tasmania,601031015,Claremont (Tas.),8503
+6,Tasmania,601031016,Derwent Park - Lutana,4725
+6,Tasmania,601031017,Glenorchy,12531
+6,Tasmania,601031018,Montrose - Rosetta,5168
+6,Tasmania,601031019,Moonah,5784
+6,Tasmania,601031020,New Norfolk,7472
+6,Tasmania,601031021,West Moonah,4421
+6,Tasmania,601041022,Kingston - Huntingfield,13912
+6,Tasmania,601041023,Kingston Beach - Blackmans Bay,11273
+6,Tasmania,601041024,Margate - Snug,8625
+6,Tasmania,601041025,Mount Wellington,0
+6,Tasmania,601041026,Taroona - Bonnet Hill,3612
+6,Tasmania,601051027,Hobart,9199
+6,Tasmania,601051028,Lenah Valley - Mount Stuart,9147
+6,Tasmania,601051029,Mount Nelson - Dynnyrne,5150
+6,Tasmania,601051030,New Town,6700
+6,Tasmania,601051031,Sandy Bay,12632
+6,Tasmania,601051032,South Hobart - Fern Tree,6835
+6,Tasmania,601051033,West Hobart,6472
+6,Tasmania,601061034,Dodges Ferry - Lewisham,8871
+6,Tasmania,601061035,Sorell - Richmond,10400
+6,Tasmania,602011036,Invermay,3582
+6,Tasmania,602011037,Kings Meadows - Punchbowl,5072
+6,Tasmania,602011038,Launceston,5494
+6,Tasmania,602011039,Legana,5007
+6,Tasmania,602011040,Mowbray,4173
+6,Tasmania,602011041,Newnham - Mayfield,10010
+6,Tasmania,602011042,Newstead,5581
+6,Tasmania,602011043,Norwood (Tas.),4092
+6,Tasmania,602011044,Prospect Vale - Blackstone,6940
+6,Tasmania,602011045,Ravenswood,3961
+6,Tasmania,602011046,Riverside,7501
+6,Tasmania,602011047,South Launceston,4975
+6,Tasmania,602011048,Summerhill - Prospect,5091
+6,Tasmania,602011049,Trevallyn,4912
+6,Tasmania,602011050,Waverley - St Leonards,4068
+6,Tasmania,602011051,West Launceston,4254
+6,Tasmania,602011052,Youngtown - Relbia,5119
+6,Tasmania,602021053,Beauty Point - Beaconsfield,4160
+6,Tasmania,602021054,Deloraine,6264
+6,Tasmania,602021055,Grindelwald - Lanena,6297
+6,Tasmania,602021056,Hadspen - Carrick,3743
+6,Tasmania,602021057,Westbury,4555
+6,Tasmania,602031058,Dilston - Lilydale,4496
+6,Tasmania,602031059,George Town,7364
+6,Tasmania,602031060,Longford,4565
+6,Tasmania,602031061,Northern Midlands,3800
+6,Tasmania,602031062,Perth - Evandale,5657
+6,Tasmania,602031064,St Helens - Scamander,6998
+6,Tasmania,602031099,Flinders and Cape Barren Islands,931
+6,Tasmania,602031100,Scottsdale - Bridport,7032
+6,Tasmania,603011065,Central Highlands,2494
+6,Tasmania,603011066,Derwent Valley,3448
+6,Tasmania,603011067,Southern Midlands,6899
+6,Tasmania,603011068,Wilderness - East,7
+6,Tasmania,603021069,Bruny Island - Kettering,3570
+6,Tasmania,603021070,Cygnet,4997
+6,Tasmania,603021071,Geeveston - Dover,4229
+6,Tasmania,603021072,Huonville - Franklin,9992
+6,Tasmania,603031073,Forestier - Tasman,2671
+6,Tasmania,603031074,Triabunna - Bicheno,5173
+6,Tasmania,604011075,Acton - Upper Burnie,3390
+6,Tasmania,604011076,Burnie - Ulverstone Surrounds,5296
+6,Tasmania,604011077,Burnie - Wivenhoe,3864
+6,Tasmania,604011078,Parklands - Camdale,6968
+6,Tasmania,604011079,Penguin - Sulphur Creek,5553
+6,Tasmania,604011080,Romaine - Havenview,3666
+6,Tasmania,604011081,Somerset,4184
+6,Tasmania,604011082,Ulverstone,7284
+6,Tasmania,604011083,West Ulverstone,4637
+6,Tasmania,604011084,Wynyard,6576
+6,Tasmania,604021085,Devonport,14924
+6,Tasmania,604021086,East Devonport,5228
+6,Tasmania,604021087,Latrobe,5598
+6,Tasmania,604021088,Miandetta - Don,3769
+6,Tasmania,604021089,Port Sorell,6743
+6,Tasmania,604021090,Quoiba - Spreyton,3238
+6,Tasmania,604021091,Sheffield - Railton,6820
+6,Tasmania,604021092,Turners Beach - Forth,3582
+6,Tasmania,604031093,King Island,1677
+6,Tasmania,604031094,North West,4354
+6,Tasmania,604031095,Smithton,4029
+6,Tasmania,604031096,Waratah,3935
+6,Tasmania,604031097,West Coast (Tas.),4358
+6,Tasmania,604031098,Wilderness - West,0
+7,Northern Territory,701011001,Darwin Airport,20
+7,Northern Territory,701011002,Darwin City,7568
+7,Northern Territory,701011003,East Point,0
+7,Northern Territory,701011004,Fannie Bay - The Gardens,3795
+7,Northern Territory,701011005,Larrakeyah,4202
+7,Northern Territory,701011006,Ludmilla - The Narrows,2737
+7,Northern Territory,701011007,Parap,2922
+7,Northern Territory,701011008,Stuart Park,4320
+7,Northern Territory,701011009,Woolner - Bayview - Winnellie,2969
+7,Northern Territory,701021010,Alawa,2176
+7,Northern Territory,701021011,Anula,2500
+7,Northern Territory,701021012,Berrimah,1960
+7,Northern Territory,701021013,Brinkin - Nakara,3527
+7,Northern Territory,701021014,Buffalo Creek,0
+7,Northern Territory,701021015,Charles Darwin,3
+7,Northern Territory,701021016,Coconut Grove,3033
+7,Northern Territory,701021017,East Arm,25
+7,Northern Territory,701021018,Jingili,1916
+7,Northern Territory,701021019,Karama,5102
+7,Northern Territory,701021020,Leanyer,4927
+7,Northern Territory,701021021,Lyons (NT),6588
+7,Northern Territory,701021022,Malak - Marrara,4645
+7,Northern Territory,701021023,Millner,2698
+7,Northern Territory,701021024,Moil,2088
+7,Northern Territory,701021025,Nightcliff,4082
+7,Northern Territory,701021026,Rapid Creek,3388
+7,Northern Territory,701021027,Tiwi,2615
+7,Northern Territory,701021028,Wagaman,2093
+7,Northern Territory,701021029,Wanguri,1923
+7,Northern Territory,701021030,Wulagi,2678
+7,Northern Territory,701031031,Howard Springs,5736
+7,Northern Territory,701031032,Humpty Doo,8982
+7,Northern Territory,701031033,Koolpinyah,14
+7,Northern Territory,701031034,Virginia,3422
+7,Northern Territory,701031035,Weddell,4604
+7,Northern Territory,701041036,Bakewell,3292
+7,Northern Territory,701041037,Driver,2881
+7,Northern Territory,701041038,Durack - Marlow Lagoon,4837
+7,Northern Territory,701041039,Gray,3368
+7,Northern Territory,701041040,Moulden,3268
+7,Northern Territory,701041041,Palmerston - North,4762
+7,Northern Territory,701041042,Palmerston - South,7560
+7,Northern Territory,701041043,Rosebery - Bellamack,6979
+7,Northern Territory,701041044,Woodroffe,3377
+7,Northern Territory,702011045,Charles,4671
+7,Northern Territory,702011046,East Side,6085
+7,Northern Territory,702011047,Flynn (NT),5099
+7,Northern Territory,702011048,Larapinta,5552
+7,Northern Territory,702011049,Mount Johns,4485
+7,Northern Territory,702011050,Petermann - Simpson,2195
+7,Northern Territory,702011051,Ross,3030
+7,Northern Territory,702011052,Sandover - Plenty,4519
+7,Northern Territory,702011053,Tanami,3312
+7,Northern Territory,702011054,Yuendumu - Anmatjere,2095
+7,Northern Territory,702021055,Barkly,2522
+7,Northern Territory,702021056,Tennant Creek,3511
+7,Northern Territory,702031057,Alligator,4680
+7,Northern Territory,702031058,Daly,2175
+7,Northern Territory,702031059,Thamarrurr,2447
+7,Northern Territory,702031060,Tiwi Islands,2744
+7,Northern Territory,702031061,West Arnhem,6074
+7,Northern Territory,702041062,Anindilyakwa,2916
+7,Northern Territory,702041063,East Arnhem,8032
+7,Northern Territory,702041064,Nhulunbuy,3641
+7,Northern Territory,702051065,Elsey,2617
+7,Northern Territory,702051066,Gulf,4849
+7,Northern Territory,702051067,Katherine,10823
+7,Northern Territory,702051068,Victoria River,3046
+8,Australian Capital Territory,801011001,Aranda,2553
+8,Australian Capital Territory,801011002,Belconnen,8813
+8,Australian Capital Territory,801011003,Bruce,7591
+8,Australian Capital Territory,801011004,Charnwood,3000
+8,Australian Capital Territory,801011005,Cook,2899
+8,Australian Capital Territory,801011006,Dunlop,7304
+8,Australian Capital Territory,801011007,Evatt,5454
+8,Australian Capital Territory,801011008,Florey,4697
+8,Australian Capital Territory,801011009,Flynn (ACT),3650
+8,Australian Capital Territory,801011010,Fraser,2102
+8,Australian Capital Territory,801011011,Giralang,3308
+8,Australian Capital Territory,801011012,Gooromon,4
+8,Australian Capital Territory,801011013,Hawker,2990
+8,Australian Capital Territory,801011014,Higgins,3277
+8,Australian Capital Territory,801011015,Holt,5726
+8,Australian Capital Territory,801011016,Kaleen,7607
+8,Australian Capital Territory,801011017,Latham,3745
+8,Australian Capital Territory,801011018,Lawson,2818
+8,Australian Capital Territory,801011019,Macgregor (ACT),6970
+8,Australian Capital Territory,801011020,Macquarie,3058
+8,Australian Capital Territory,801011021,McKellar,2686
+8,Australian Capital Territory,801011022,Melba,3315
+8,Australian Capital Territory,801011023,Page,2985
+8,Australian Capital Territory,801011024,Scullin,3075
+8,Australian Capital Territory,801011025,Spence,2521
+8,Australian Capital Territory,801011026,Weetangera,2786
+8,Australian Capital Territory,801011111,Molonglo Corridor,16
+8,Australian Capital Territory,801011142,Macnamara,0
+8,Australian Capital Territory,801011143,Strathnairn,1038
+8,Australian Capital Territory,801011144,West Belconnen,20
+8,Australian Capital Territory,801031031,Hume,394
+8,Australian Capital Territory,801031032,Kowen,23
+8,Australian Capital Territory,801031113,Canberra East,1127
+8,Australian Capital Territory,801031114,Canberra Airport,128
+8,Australian Capital Territory,801031115,Majura,288
+8,Australian Capital Territory,801041034,Amaroo,6053
+8,Australian Capital Territory,801041035,Bonner,7377
+8,Australian Capital Territory,801041036,Casey,6520
+8,Australian Capital Territory,801041037,Crace,4761
+8,Australian Capital Territory,801041038,Forde,4439
+8,Australian Capital Territory,801041039,Franklin,7439
+8,Australian Capital Territory,801041040,Gungahlin,8732
+8,Australian Capital Territory,801041043,Hall,292
+8,Australian Capital Territory,801041044,Harrison,8129
+8,Australian Capital Territory,801041045,Mitchell,8
+8,Australian Capital Territory,801041046,Ngunnawal,10991
+8,Australian Capital Territory,801041047,Nicholls,6568
+8,Australian Capital Territory,801041048,Palmerston,5479
+8,Australian Capital Territory,801041116,Gungahlin - East,0
+8,Australian Capital Territory,801041117,Gungahlin - West,0
+8,Australian Capital Territory,801041118,Jacka,690
+8,Australian Capital Territory,801041119,Kenny,18
+8,Australian Capital Territory,801041120,Moncrieff,5484
+8,Australian Capital Territory,801041121,Taylor,2504
+8,Australian Capital Territory,801041122,Throsby,2930
+8,Australian Capital Territory,801051049,Acton,2952
+8,Australian Capital Territory,801051050,Ainslie,5285
+8,Australian Capital Territory,801051051,Braddon,6730
+8,Australian Capital Territory,801051053,Civic,4986
+8,Australian Capital Territory,801051054,Dickson,3473
+8,Australian Capital Territory,801051055,Downer,4337
+8,Australian Capital Territory,801051056,Hackett,3242
+8,Australian Capital Territory,801051057,Lyneham,5645
+8,Australian Capital Territory,801051058,O`Connor (ACT),5866
+8,Australian Capital Territory,801051060,Turner,4528
+8,Australian Capital Territory,801051061,Watson,6858
+8,Australian Capital Territory,801051123,Black Mountain,0
+8,Australian Capital Territory,801051124,Campbell,4848
+8,Australian Capital Territory,801051125,Duntroon,2003
+8,Australian Capital Territory,801051126,Parkes (ACT) - North,0
+8,Australian Capital Territory,801051127,Reid,1755
+8,Australian Capital Territory,801051128,Russell,0
+8,Australian Capital Territory,801061062,Deakin,3131
+8,Australian Capital Territory,801061063,Forrest,1870
+8,Australian Capital Territory,801061064,Griffith (ACT),5331
+8,Australian Capital Territory,801061066,Lake Burley Griffin,0
+8,Australian Capital Territory,801061067,Narrabundah,6553
+8,Australian Capital Territory,801061068,Parkes (ACT) - South,4
+8,Australian Capital Territory,801061069,Red Hill (ACT),3228
+8,Australian Capital Territory,801061070,Yarralumla,3095
+8,Australian Capital Territory,801061129,Barton,1968
+8,Australian Capital Territory,801061130,Fyshwick,59
+8,Australian Capital Territory,801061131,Kingston (ACT),6897
+8,Australian Capital Territory,801071071,Banks,5002
+8,Australian Capital Territory,801071072,Bonython,3761
+8,Australian Capital Territory,801071073,Calwell,5673
+8,Australian Capital Territory,801071074,Chisholm,5204
+8,Australian Capital Territory,801071075,Conder,5007
+8,Australian Capital Territory,801071076,Fadden,2983
+8,Australian Capital Territory,801071077,Gilmore,2679
+8,Australian Capital Territory,801071078,Gordon (ACT),7828
+8,Australian Capital Territory,801071079,Gowrie (ACT),3082
+8,Australian Capital Territory,801071080,Greenway,4387
+8,Australian Capital Territory,801071081,Isabella Plains,4272
+8,Australian Capital Territory,801071082,Kambah,15775
+8,Australian Capital Territory,801071083,Macarthur,1368
+8,Australian Capital Territory,801071084,Monash,5569
+8,Australian Capital Territory,801071085,Mount Taylor,0
+8,Australian Capital Territory,801071086,Oxley (ACT),1676
+8,Australian Capital Territory,801071087,Richardson,3010
+8,Australian Capital Territory,801071088,Theodore,3737
+8,Australian Capital Territory,801071089,Tuggeranong,40
+8,Australian Capital Territory,801071090,Wanniassa,7823
+8,Australian Capital Territory,801071132,Tuggeranong - West,10
+8,Australian Capital Territory,801081091,Chapman,2834
+8,Australian Capital Territory,801081092,Duffy,3409
+8,Australian Capital Territory,801081093,Fisher,3260
+8,Australian Capital Territory,801081094,Holder,2819
+8,Australian Capital Territory,801081095,Rivett,3315
+8,Australian Capital Territory,801081096,Stirling,2111
+8,Australian Capital Territory,801081097,Waramanga,2728
+8,Australian Capital Territory,801081098,Weston,3932
+8,Australian Capital Territory,801081133,Scrivener,0
+8,Australian Capital Territory,801091099,Chifley,2608
+8,Australian Capital Territory,801091100,Curtin,5485
+8,Australian Capital Territory,801091101,Farrer,3791
+8,Australian Capital Territory,801091102,Garran,3728
+8,Australian Capital Territory,801091103,Hughes,3163
+8,Australian Capital Territory,801091104,Isaacs,2334
+8,Australian Capital Territory,801091105,Lyons (ACT),3231
+8,Australian Capital Territory,801091106,Mawson,3402
+8,Australian Capital Territory,801091107,O`Malley,940
+8,Australian Capital Territory,801091108,Pearce,2675
+8,Australian Capital Territory,801091109,Phillip,5431
+8,Australian Capital Territory,801091110,Torrens,2389
+8,Australian Capital Territory,801101134,Arboretum,10
+8,Australian Capital Territory,801101135,Coombs,5050
+8,Australian Capital Territory,801101136,Denman Prospect,3456
+8,Australian Capital Territory,801101137,Molonglo,0
+8,Australian Capital Territory,801101139,Wright,4006
+8,Australian Capital Territory,801101145,Molonglo - East,3
+8,Australian Capital Territory,801101146,Whitlam,52
+8,Australian Capital Territory,801111140,ACT - South West,551
+8,Australian Capital Territory,801111141,Namadgi,67
+9,Other Territories,901011001,Christmas Island,1782
+9,Other Territories,901021002,Cocos (Keeling) Islands,614
+9,Other Territories,901031003,Jervis Bay,312
+9,Other Territories,901041004,Norfolk Island,2211
+,,,TOTAL AUSTRALIA,25996144
+"Source: Regional population, 2021-22",,,,
+© Commonwealth of Australia 2023,,,,

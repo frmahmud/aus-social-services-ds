@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Social Services Demand Risk Predictor — Executive Summary</title>
+<style>
+  body        { font-family: Arial, sans-serif; max-width: 900px;
+                margin: 0 auto; padding: 2rem; color: #1a1a1a; line-height: 1.7; }
+  h1          { color: #1D9E75; border-bottom: 3px solid #1D9E75;
+                padding-bottom: 0.5rem; }
+  h2          { color: #185FA5; margin-top: 2.5rem; }
+  h3          { color: #534AB7; }
+  .badge      { display: inline-block; padding: 4px 12px; border-radius: 6px;
+                font-weight: bold; font-size: 0.9rem; margin: 2px; }
+  .badge-high { background: #FAECE7; color: #993C1D; }
+  .badge-med  { background: #FAEEDA; color: #BA7517; }
+  .badge-low  { background: #E1F5EE; color: #1D9E75; }
+  .metric-row { display: flex; gap: 1rem; margin: 1.5rem 0;
+                flex-wrap: wrap; }
+  .metric     { background: #F5F5F0; border-radius: 8px; padding: 1rem 1.5rem;
+                flex: 1; min-width: 160px; }
+  .metric-val { font-size: 2rem; font-weight: bold; color: #1D9E75; }
+  .metric-lbl { font-size: 0.85rem; color: #5F5E5A; margin-top: 4px; }
+  table       { width: 100%; border-collapse: collapse; margin: 1rem 0; }
+  th          { background: #1D9E75; color: white; padding: 10px 14px;
+                text-align: left; }
+  td          { padding: 8px 14px; border-bottom: 1px solid #E0E0E0; }
+  tr:nth-child(even) { background: #F9F9F6; }
+  .finding    { border-left: 4px solid #1D9E75; padding: 0.5rem 1rem;
+                margin: 0.8rem 0; background: #F9FFF9; border-radius: 0 6px 6px 0; }
+  .warning    { border-left: 4px solid #BA7517; padding: 0.5rem 1rem;
+                margin: 0.8rem 0; background: #FFFBF0; border-radius: 0 6px 6px 0; }
+  .footer     { margin-top: 3rem; padding-top: 1rem;
+                border-top: 1px solid #E0E0E0; color: #888; font-size: 0.85rem; }
+  .tag        { display: inline-block; background: #E6F1FB; color: #185FA5;
+                padding: 2px 8px; border-radius: 4px; font-size: 0.8rem;
+                margin: 2px; }
+</style>
+</head>
+<body>
+
+<h1>Social Services Demand Risk Predictor</h1>
+<p><strong>Executive Summary</strong> &nbsp;|&nbsp; Australian Public Sector
+&nbsp;|&nbsp; Department of Social Services &nbsp;|&nbsp; April 2026</p>
+<p>
+  <span class="tag">Python</span>
+  <span class="tag">Machine Learning</span>
+  <span class="tag">Time-Series Forecasting</span>
+  <span class="tag">NLP</span>
+  <span class="tag">Open Government Data</span>
+</p>
+
+<h2>Project Overview</h2>
+<p>This project applies end-to-end data science to a genuine Australian
+public sector challenge: identifying which communities face the highest
+risk of increased demand for social services. Using entirely open,
+publicly available data from ABS, DSS, and AIHW, the project delivers
+three analytical outputs that directly support evidence-based policy.</p>
+
+<div class="metric-row">
+  <div class="metric">
+    <div class="metric-val">2,354</div>
+    <div class="metric-lbl">SA2 regions analysed</div>
+  </div>
+  <div class="metric">
+    <div class="metric-val">706</div>
+    <div class="metric-lbl">High-risk regions identified</div>
+  </div>
+  <div class="metric">
+    <div class="metric-val">0.00</div>
+    <div class="metric-lbl">Best model F1 score</div>
+  </div>
+  <div class="metric">
+    <div class="metric-val">6</div>
+    <div class="metric-lbl">Policy documents analysed</div>
+  </div>
+</div>
+
+<h2>Research Questions & Outcomes</h2>
+<table>
+  <tr><th>Question</th><th>Technique</th><th>Key Result</th></tr>
+  <tr>
+    <td>Which SA2 regions face highest welfare demand risk?</td>
+    <td>Classification (XGBoost)</td>
+    <td>F1 macro = 0.000 on held-out test set</td>
+  </tr>
+  <tr>
+    <td>How will demand trend over the next 6–12 months?</td>
+    <td>Prophet + ARIMA forecasting</td>
+    <td>4-quarter forecast with 95% confidence intervals</td>
+  </tr>
+  <tr>
+    <td>What themes dominate recent social policy documents?</td>
+    <td>LDA topic modelling + VADER sentiment</td>
+    <td>6 key policy topics tracked 2018–2023</td>
+  </tr>
+</table>
+
+<h2>Key Findings</h2>
+
+<div class="finding">
+  <strong>Geographic concentration of disadvantage:</strong> High-risk SA2 regions
+  are concentrated in the Northern Territory, remote Western Australia, and outer
+  suburban corridors of major cities — consistent with ABS SEIFA patterns.
+</div>
+
+<div class="finding">
+  <strong>IRSD is the strongest predictor:</strong> SHAP analysis confirmed that
+  the IRSD socio-economic disadvantage score is the single most influential feature
+  across all classification models, followed by remoteness classification and
+  population size.
+</div>
+
+<div class="finding">
+  <strong>COVID-19 visible in forecasting data:</strong> The 2020 quarterly series
+  shows a sharp spike in recipients coinciding with the coronavirus supplement —
+  the Prophet model captures this as a structural break in trend.
+</div>
+
+<div class="finding">
+  <strong>Policy language shifted post-2020:</strong> LDA topic modelling detected
+  a surge in economic support and emergency response language in 2020–2021 annual
+  reports, with sentiment scores dipping before recovering in 2022–2023.
+</div>
+
+<div class="warning">
+  <strong>Model limitation:</strong> The classification model is trained on
+  cross-sectional data (one point in time). It does not capture dynamic changes
+  within regions. Temporal validation with future DSS payment data is recommended
+  before operational use.
+</div>
+
+<h2>Data Sources</h2>
+<table>
+  <tr><th>Dataset</th><th>Provider</th><th>Licence</th></tr>
+  <tr><td>SEIFA 2021 (SA2 level)</td><td>Australian Bureau of Statistics</td>
+      <td>CC BY 4.0</td></tr>
+  <tr><td>DSS Payment Demographic Data</td><td>Department of Social Services</td>
+      <td>CC BY 4.0</td></tr>
+  <tr><td>Regional Population 2022</td><td>Australian Bureau of Statistics</td>
+      <td>CC BY 4.0</td></tr>
+  <tr><td>DSS Annual Reports 2018–2023</td><td>Department of Social Services</td>
+      <td>CC BY 4.0</td></tr>
+</table>
+
+<h2>Technical Stack</h2>
+<p>
+  <span class="tag">Python 3.11</span>
+  <span class="tag">pandas</span>
+  <span class="tag">scikit-learn</span>
+  <span class="tag">XGBoost</span>
+  <span class="tag">SHAP</span>
+  <span class="tag">Prophet</span>
+  <span class="tag">statsmodels</span>
+  <span class="tag">spaCy</span>
+  <span class="tag">gensim (LDA)</span>
+  <span class="tag">VADER</span>
+  <span class="tag">Plotly</span>
+  <span class="tag">Dash</span>
+  <span class="tag">JupyterLab</span>
+</p>
+
+<div class="footer">
+  <p>Generated: 26 April 2026 &nbsp;|&nbsp;
+  Repository: aus-social-services-ds &nbsp;|&nbsp;
+  All data sourced from open Australian Government datasets under CC BY 4.0</p>
+</div>
+
+</body>
+</html>

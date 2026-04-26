@@ -1,0 +1,3 @@
+irsd_decile_aus
+irsd_score
+score_range

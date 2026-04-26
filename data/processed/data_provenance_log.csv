@@ -1,0 +1,4 @@
+dataset,source,url,licence,date_accessed,local_file,notes
+ABS SEIFA 2021 (SA2 level),Australian Bureau of Statistics,https://www.abs.gov.au/statistics/people/people-and-communities/socio-economic-indexes-areas-seifa-australia/2021,Creative Commons Attribution 4.0 (CC BY 4.0),2026-04-19,data/raw/seifa_2021.xlsx,"SA2-level IRSD, IRSAD, IER, IEO scores and deciles"
+DSS Payment Demographic Data (Jun 2023),Department of Social Services,https://data.gov.au/dataset/ds-dga-cff2ae8a-55e4-47db-a66d-e177fe0ac6a0,Creative Commons Attribution 4.0 (CC BY 4.0),2026-04-19,data/raw/dss_payments_jun2023.csv,Quarterly recipient counts by payment type and SA2
+ABS Regional Population 2022,Australian Bureau of Statistics,https://www.abs.gov.au/statistics/people/population/regional-population/latest-release,Creative Commons Attribution 4.0 (CC BY 4.0),2026-04-19,data/raw/abs_population_2022.xlsx,"Estimated Resident Population by SA2, age group, sex"

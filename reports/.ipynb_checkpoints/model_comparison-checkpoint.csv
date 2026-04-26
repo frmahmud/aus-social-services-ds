@@ -1,0 +1,4 @@
+Model,F1 Macro,F1 Weighted,ROC-AUC,Interpretable,Training Speed
+Logistic Regression,1.0,1.0,1.0,Yes — coefficients,Fast
+Random Forest (Tuned),1.0,1.0,1.0,Partial — feature importance,Medium
+XGBoost,1.0,1.0,,Yes — via SHAP,Fast
