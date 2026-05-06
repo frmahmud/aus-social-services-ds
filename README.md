@@ -4,7 +4,6 @@
 > Predicting welfare demand risk across SA2 regions using open government data.
 
 [![Python](https://img.shields.io/badge/Python-3.11-blue)](https://python.org)
-[![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 [![Data](https://img.shields.io/badge/Data-Open%20Government-orange)](https://data.gov.au)
 
 ---
